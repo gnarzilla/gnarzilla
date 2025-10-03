@@ -6,7 +6,7 @@ My public repositories are available at [github.com/gnarzilla](https://github.co
 
 ## Deadlight Ecosystem
 
-Deadlight provides a way to maintain a personal online presence—such as a blog, email management, and privacy controls—without requiring always-on servers or complex hosting. It addresses challenges like technical setup for blogging, email control, and privacy trade-offs.
+Deadlight provides a way to maintain a personal online presence, such as a blog, email management, and privacy controls without requiring always-on servers or complex hosting. It addresses challenges like technical setup for blogging, email control, and privacy trade-offs.
 
 The system consists of:
 - **blog.deadlight**: A secure blog platform on Cloudflare Workers, with global distribution for low-latency access.
