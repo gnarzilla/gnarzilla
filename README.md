@@ -34,7 +34,7 @@ Benefits include no vendor lock-in, minimal costs for basic use, and extensibili
 
 - **[lib.deadlight](https://github.com/gnarzilla/lib.deadlight)**  
   A modular, edge-native library providing core utilities for the Deadlight ecosystem.  
-  *Stars: 0* | *Forks: 0* | *Language: JavaScript*
+  *Stars: 0* | *Forks: 0* | *Languages: JavaScript, C*
 
 - **[deadlight-bootstrap](https://github.com/gnarzilla/deadlight-bootstrap)**  
   A lightweight web framework on Cloudflare Workers with authentication and D1 integration. Suitable for simple sites.  
