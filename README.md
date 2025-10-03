@@ -1,6 +1,6 @@
 # thatch
 
-I am a software developer with a focus on secure, performant, and privacy-focused applications deployed at the edge. My work primarily involves the Deadlight ecosystem—a set of open-source tools for modular web platforms, multi-protocol proxies, and edge-native libraries, using Cloudflare Workers, Tailscale and lightweight services. These tools emphasize zero-configuration setups, global scalability, and security.
+I am a software developer with a focus on secure, performant, and privacy-focused applications deployed at the edge. My work primarily involves the Deadlight ecosystem, a set of open-source tools for modular web platforms, multi-protocol proxies, and edge-native libraries, using Cloudflare Workers, Tailscale and lightweight services. These tools emphasize zero-configuration setups, global scalability, and security.
 
 My public repositories are available at [github.com/gnarzilla](https://github.com/gnarzilla). For a detailed overview of Deadlight, see my blog post: [What is Deadlight?](https://deadlight.boo/post/what-is-deadlight) (September 18, 2025).
 
