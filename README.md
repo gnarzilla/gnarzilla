@@ -1,6 +1,12 @@
 # thatch
 
-I am a software developer with a focus on secure, performant, and privacy-focused applications deployed at the edge. My work primarily involves the Deadlight ecosystem, a set of open-source tools for modular web platforms, multi-protocol proxies, and edge-native libraries, using Cloudflare Workers, Tailscale and lightweight services. These tools emphasize zero-configuration setups, global scalability, and security.
+## GitHub Stats
+
+![Gnarzilla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gnarzilla&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gnarzilla&layout=compact&theme=radical&hide_border=true&hide=python)
+
+I develop with a focus on secure, performant, and privacy-focused applications deployed at the edge. My work primarily involves the Deadlight ecosystem, a set of open-source tools for modular web platforms, multi-protocol proxies, and edge-native libraries, using Cloudflare Workers, Tailscale and lightweight services. These tools emphasize zero-configuration setups, global scalability, and security. User empowerment is my core design principle. 
 
 My public repositories are available at [github.com/gnarzilla](https://github.com/gnarzilla). For a detailed overview of Deadlight, see my blog post: [What is Deadlight?](https://deadlight.boo/post/what-is-deadlight) (September 18, 2025).
 
@@ -58,12 +64,6 @@ These demonstrate features like secure authentication, protocol bridging, and gl
 - **Platforms:** Cloudflare Workers, Pages, D1, Tailscale
 - **Tools:** Wrangler CLI, GLib, JWT, Markdown rendering
 - **Areas:** Edge computing, network proxies, security (CSRF/XSS protection, TLS), federation (email/ActivityPub), serverless deployments
-
-## GitHub Stats
-
-![Gnarzilla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gnarzilla&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gnarzilla&layout=compact&theme=radical&hide_border=true&hide=python)
 
 ## Contact
 
