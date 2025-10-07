@@ -45,12 +45,12 @@ All repositories are open-source under permissive licenses. Contributions via is
 
 ## Live Demos
 
-[![D E A D L I G H T](https://deadlight.boo/favicon.ico)](https://deadlight.boo)
+[![D E A D L I G H T](https://deadlight.boo/favicon.ico)](https://deadlight.boo) | 
 [D E A D L I G H T](https://deadlight.boo): Main blog platform with proxy integration
 
 [THREAT LEVEL MIDNIGHT](https://threat-level-midnight.deadlight.boo): Isolated deployment for testing federation.
 
-[![thatch-dt](https://thatch-dt.deadlight.boo/favicon.ico)](https://thatch-dt.deadlight.boo)[thatch's blog](http://thatch-dt.deadlight.boo): Instance with use case examples.
+[![thatch-dt](https://thatch-dt.deadlight.boo/favicon.ico)](https://thatch-dt.deadlight.boo) | [thatch's blog](http://thatch-dt.deadlight.boo): Instance with use case examples.
 
 `v1.deadlight.boo` [v1.deadlight.boo](https://v1.deadlight.boo): Legacy bootstrap version.
 
