@@ -45,8 +45,9 @@ All repositories are open-source under permissive licenses. Contributions via is
 
 ## Live Demos
 
-- [![deadlight.boo](https://deadlight.boo/favicon.ico)](https://deadlight.boo)
-- deadlight.boo: Main blog platform with proxy integration
+[![deadlight.boo](https://deadlight.boo/favicon.ico)](https://deadlight.boo)
+deadlight.boo: Main blog platform with proxy integration
+
 - [![thatch's blog](https://thatch-dt.deadlight.boo/favicon.ico)](https://thatch-dt.deadlight.boo)
 - [![thatch-dt](thatch-dt.deadlight.boo](https://thatch-dt.deadlight.boo): Instance with use case examples.
 - [v1.deadlight.boo](https://v1.deadlight.boo): Legacy bootstrap version.
