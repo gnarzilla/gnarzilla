@@ -48,11 +48,11 @@ All repositories are open-source under permissive licenses. Contributions via is
 [![deadlight.boo](https://deadlight.boo/favicon.ico)](https://deadlight.boo)
 [deadlight.boo](https://deadlight.boo): Main blog platform with proxy integration
 
-[![THREAT LEVEL MIDNIGHT](https://threat-level-midnight.deadlight.boo/favicon.ico)](https://threat-level-midnight.deadlight.boo)
+[![THREAT LEVEL MIDNIGHT](https://threat-level-midnight.deadlight.boo/favicon.ico)](https://threat-level-midnight.deadlight.boo)<br>
 [THREAT LEVEL MIDNIGHT](https://threat-level-midnight.deadlight.boo): Isolated deployment for testing federation.
 
 [![thatch-dt](https://thatch-dt.deadlight.boo/apple-touch-icon.png)](https://thatch-dt.deadlight.boo)
-[thatch's blog](http://thatch-dt.deadlight.boo): Instance with use case examples.
+<br>[thatch's blog](http://thatch-dt.deadlight.boo): Instance with use case examples.
 
 `v1.deadlight.boo` [v1.deadlight.boo](https://v1.deadlight.boo): Legacy bootstrap version.
 
