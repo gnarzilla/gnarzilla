@@ -56,7 +56,9 @@ All repositories are open-source under permissive licenses. Contributions via is
 
 `v1.deadlight.boo` [v1.deadlight.boo](https://v1.deadlight.boo): Legacy bootstrap version.
 
+
 These demonstrate features like secure authentication, protocol bridging, and global delivery.
+
 
 ## Skills and Technologies
 
