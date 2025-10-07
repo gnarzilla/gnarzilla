@@ -8,8 +8,6 @@ My public repositories are available at [github.com/gnarzilla](https://github.co
 
 Deadlight provides a way to maintain a personal online presence, such as a blog, email management, and privacy controls without requiring always-on servers or complex hosting. It addresses challenges like technical setup for blogging, email control, and privacy trade-offs.
 
-![deadlighr.boo](https://deadlight.boo/favicon.ico)
-
 The system consists of:
 - **blog.deadlight**: A secure blog platform on Cloudflare Workers, with global distribution for low-latency access.
 - **proxy.deadlight**: A network proxy for protocol bridging (e.g., SMTP, IMAP/S, SOCKS4/5), now including VPN gateway functionality. It runs locally as needed.
@@ -47,7 +45,7 @@ All repositories are open-source under permissive licenses. Contributions via is
 
 ## Live Demos
 
-- [deadlight.boo](https://deadlight.boo): Main blog platform with proxy integration.
+- ![deadlight.boo](https://deadlight.boo/favicon.ico)[deadlight.boo](https://deadlight.boo): Main blog platform with proxy integration.
 - [thatch-dt.deadlight.boo](https://thatch-dt.deadlight.boo): Instance with use case examples.
 - [v1.deadlight.boo](https://v1.deadlight.boo): Legacy bootstrap version.
 - [threat-level-midnight.deadlight.boo](https://threat-level-midnight.deadlight.boo): Isolated deployment for testing federation.
