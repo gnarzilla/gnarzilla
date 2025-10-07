@@ -45,7 +45,7 @@ All repositories are open-source under permissive licenses. Contributions via is
 
 ## Live Demos
 
-[![deadlight.boo](https://deadlight.boo/favicon.ico)](https://deadlight.boo)
+[![D E A D L I G H T](https://deadlight.boo/favicon.ico)](https://deadlight.boo)
 [deadlight.boo](https://deadlight.boo): Main blog platform with proxy integration
 
 [![THREAT LEVEL MIDNIGHT](https://threat-level-midnight.deadlight.boo/favicon.ico)](https://threat-level-midnight.deadlight.boo)
