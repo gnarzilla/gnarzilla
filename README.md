@@ -49,6 +49,7 @@ All repositories are open-source under permissive licenses. Contributions via is
 [D E A D L I G H T](https://deadlight.boo): Main blog platform with proxy integration
 
 [THREAT LEVEL MIDNIGHT](https://threat-level-midnight.deadlight.boo): Isolated deployment for testing federation.
+![threat-level-midnight](https://threat-level-midnight.deadlight.boo/favicon.ixo)
 
 [![thatch-dt](https://thatch-dt.deadlight.boo/favicon.ico)](https://thatch-dt.deadlight.boo) | [thatch's blog](http://thatch-dt.deadlight.boo): Instance with use case examples.
 
