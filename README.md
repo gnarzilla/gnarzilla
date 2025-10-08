@@ -50,8 +50,6 @@ All repositories are open-source under permissive licenses. Contributions via is
 
 [THREAT LEVEL MIDNIGHT](https://threat-level-midnight.deadlight.boo): Isolated deployment for testing federation.
 
-![threat-level-midnight](https://threat-level-midnight.deadlight.boo/favicon.ico)
-
 [![thatch-dt](https://thatch-dt.deadlight.boo/favicon.ico)](https://thatch-dt.deadlight.boo) | [thatch's blog](http://thatch-dt.deadlight.boo): Instance with use case examples.
 
 `v1.deadlight.boo` [v1.deadlight.boo](https://v1.deadlight.boo): Legacy bootstrap version.
