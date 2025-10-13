@@ -21,7 +21,7 @@ Benefits include no vendor lock-in, minimal costs for basic use, and extensibili
 
 - **[edge.deadlight](https://github.com/gnarzilla/edge.deadlight)**  
   A production-ready edge platform combining modular site frameworks with proxy management. Built for performance, privacy, and scalability on Cloudflare.  
-  *Stars: 0* | *Forks: 0* | *Languages: JavaScript, C*
+  *Languages: JavaScript, C*
 
 - **[blog.deadlight](https://github.com/gnarzilla/blog.deadlight)**  
   A modular, security-hardened blog platform with integrated multi-protocol proxy management. Supports email federation.  
@@ -30,11 +30,11 @@ Benefits include no vendor lock-in, minimal costs for basic use, and extensibili
 
 - **[proxy.deadlight](https://github.com/gnarzilla/proxy.deadlight)**  
   A high-performance network proxy serving as a stateless protocol bridge, including VPN gateway support. Connects TCP protocols to stateless systems.  
-  *Stars: 0* | *Forks: 0* | *Language: C*
+  *Language: C*
 
 - **[lib.deadlight](https://github.com/gnarzilla/lib.deadlight)**  
   A modular, edge-native library providing core utilities for the Deadlight ecosystem.  
-  *Stars: 0* | *Forks: 0* | *Languages: JavaScript, C*
+  *Languages: JavaScript, C*
 
 - **[deadlight-bootstrap](https://github.com/gnarzilla/deadlight-bootstrap)**  
   A lightweight web framework on Cloudflare Workers with authentication and D1 integration. Suitable for simple sites.  
