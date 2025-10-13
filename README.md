@@ -41,6 +41,10 @@ Benefits include no vendor lock-in, minimal costs for basic use, and extensibili
   *Stars: 13* | *Forks: 1* | *Language: JavaScript*  
   [Live Demo (v1)](https://v1.deadlight.boo)
 
+  - **[Guardian](https://github.com/gnarzilla/guardian)**  
+  Git User Authentication & Repository Development Interface Assistant & Navigator.
+  *Stars: 1* | | *Language: Python*  
+
 All repositories are open-source under permissive licenses. Contributions via issues or pull requests are welcome.
 
 ## Live Demos
