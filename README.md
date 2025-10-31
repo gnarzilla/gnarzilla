@@ -25,7 +25,7 @@ Benefits include no vendor lock-in, minimal costs for basic use, and extensibili
 
 - **[blog.deadlight](https://github.com/gnarzilla/blog.deadlight)**  
   A modular, security-hardened blog platform with integrated multi-protocol proxy management. Supports email federation.  
-  *Stars: 3* | *Forks: 1* | *Language: JavaScript*  
+  *Stars: 4* | *Forks: 1* | *Language: JavaScript*  
   [Live Demo](https://deadlight.boo) | [Getting Started](https://deadlight.boo/post/47) | [Use Cases](https://thatch-dt.deadlight.boo/post/use-cases)
 
 - **[proxy.deadlight](https://github.com/gnarzilla/proxy.deadlight)**  
@@ -38,7 +38,7 @@ Benefits include no vendor lock-in, minimal costs for basic use, and extensibili
 
 - **[deadlight-bootstrap](https://github.com/gnarzilla/deadlight-bootstrap)**  
   A lightweight web framework on Cloudflare Workers with authentication and D1 integration. Suitable for simple sites.  
-  *Stars: 13* | *Forks: 1* | *Language: JavaScript*  
+  *Stars: 14* | *Forks: 1* | *Language: JavaScript*  
   [Live Demo (v1)](https://v1.deadlight.boo)
 
 - **[Guardian](https://github.com/gnarzilla/guardian)**
