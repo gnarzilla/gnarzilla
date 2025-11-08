@@ -25,7 +25,7 @@ Benefits include no vendor lock-in, minimal costs for basic use, and extensibili
 
 - **[blog.deadlight](https://github.com/gnarzilla/blog.deadlight)**  
   A modular, security-hardened blog platform with integrated multi-protocol proxy management. Supports email federation.  
-  *Stars: 4* | *Forks: 1* | *Language: JavaScript*  
+  *Stars: 5* | *Forks: 1* | *Language: JavaScript*  
   [Live Demo](https://deadlight.boo) | [Getting Started](https://deadlight.boo/post/47) | [Use Cases](https://thatch-dt.deadlight.boo/post/use-cases)
 
 - **[proxy.deadlight](https://github.com/gnarzilla/proxy.deadlight)**  
