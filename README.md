@@ -12,6 +12,7 @@ The system consists of:
 - **blog.deadlight**: A secure blog platform on Cloudflare Workers, with global distribution for low-latency access.
 - **proxy.deadlight**: A network proxy for protocol bridging (e.g., SMTP, IMAP/S, SOCKS4/5), now including VPN gateway functionality. It runs locally as needed.
 - **lib.deadlight**: Shared libraries for authentication, database models, UI components, and utilities across the ecosystem.
+- **meshtastic.deadlight** Internet-over-LoRa: A practical bridge between Meshtastic mesh networks and the Internet. This is a fork/targeted implementation of proxy.deadlight.
 
 The umbrella project is **edge.deadlight**, which integrates these components into a cohesive platform.
 
