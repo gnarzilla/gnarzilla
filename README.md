@@ -42,6 +42,14 @@ Benefits include no vendor lock-in, minimal costs for basic use, and extensibili
   *Stars: 14* | *Forks: 1* | *Language: JavaScript*  
   [Live Demo (v1)](https://v1.deadlight.boo)
 
+- **[meshtastic.deadlight](https://github.com/gnarzilla/meshtastic.deadlight)**  
+  Internet-over-LoRa: A practical bridge between Meshtastic mesh networks and the Internet.
+  *Stars: 1* | *Language: C*
+  [Project Website](https://meshtastic.deadlight.boo)
+
+
+
+
 - **[Guardian](https://github.com/gnarzilla/guardian)**
   Git User Authentication & Repository Development Interface Assistant & Navigator.  
   *Stars: 1* | | *Language: Python*  
