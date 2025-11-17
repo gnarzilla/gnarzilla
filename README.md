@@ -59,6 +59,8 @@ All repositories are open-source under permissive licenses. Contributions via is
 
 `v1.deadlight.boo` [v1.deadlight.boo](https://v1.deadlight.boo): Legacy bootstrap version.
 
+[![Meshtastic-Deadlight](https://meshtastic.deadlight.boo/favicon.ico)](https://meshtastic.deadlight.boo) | 
+[Meshtastic-deadlight](https://neshtastic.deadlight.boo): Project and community blog for Meshtastic-Deadlight LoRa internet gateway. 
 
 These demonstrate features like secure authentication, protocol bridging, and global delivery.
 
