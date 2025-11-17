@@ -20,6 +20,11 @@ Benefits include no vendor lock-in, minimal costs for basic use, and extensibili
 
 ## Repositories
 
+- **[meshtastic.deadlight](https://github.com/gnarzilla/meshtastic.deadlight)**  
+  Internet-over-LoRa: A practical bridge between Meshtastic mesh networks and the Internet.
+  *Stars: 1* | *Language: C* <br>
+  [Project Website](https://meshtastic.deadlight.boo)
+
 - **[edge.deadlight](https://github.com/gnarzilla/edge.deadlight)**  
   A production-ready edge platform combining modular site frameworks with proxy management. Built for performance, privacy, and scalability on Cloudflare.  
   *Languages: JavaScript, C*
@@ -41,13 +46,6 @@ Benefits include no vendor lock-in, minimal costs for basic use, and extensibili
   A lightweight web framework on Cloudflare Workers with authentication and D1 integration. Suitable for simple sites.  
   *Stars: 14* | *Forks: 1* | *Language: JavaScript*  
   [Live Demo (v1)](https://v1.deadlight.boo)
-
-- **[meshtastic.deadlight](https://github.com/gnarzilla/meshtastic.deadlight)**  
-  Internet-over-LoRa: A practical bridge between Meshtastic mesh networks and the Internet.
-  *Stars: 1* | *Language: C* <br>
-  [Project Website](https://meshtastic.deadlight.boo)
-
-
 
 - **[Guardian](https://github.com/gnarzilla/guardian)**
   Git User Authentication & Repository Development Interface Assistant & Navigator.  
