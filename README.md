@@ -22,7 +22,7 @@ Benefits include no vendor lock-in, minimal costs for basic use, and extensibili
 
 - **[meshtastic.deadlight](https://github.com/gnarzilla/meshtastic.deadlight)**  
   Internet-over-LoRa: A practical bridge between Meshtastic mesh networks and the Internet. <br>
-  *Stars: 1* | *Language: C* <br>
+  *Stars: 2* | *Language: C* <br>
   [Project Website](https://meshtastic.deadlight.boo)
 
 - **[edge.deadlight](https://github.com/gnarzilla/edge.deadlight)**  
