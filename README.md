@@ -176,5 +176,3 @@ File issues, open PRs, or reach out directly.
 Open to collaboration on edge computing, resilient networking, or related projects.
 
 ---
-
-*"User empowerment is my core design principle"* sounds abstract. What I'm actually doing is: **building infrastructure that doesn't stop working when the infrastructure fails.**
