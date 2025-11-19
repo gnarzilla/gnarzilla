@@ -30,7 +30,7 @@ High-performance protocol bridge (SMTP/IMAP/SOCKS4/5) + VPN gateway. Connects st
 
 **[meshtastic.deadlight](https://github.com/gnarzilla/meshtastic.deadlight)** ⭐ 2  
 Internet-over-LoRa gateway. Bridge between Meshtastic mesh networks and the public internet.  
-*C* · [Project Site](https://meshtastic.deadlight.boo)
+*C* · [Project Site](https://meshtastic.deadlight.boo) · [Getting Started](https://meshtastic.deadlight.boo/post/getting-started)
 
 **[lib.deadlight](https://github.com/gnarzilla/lib.deadlight)**  
 Shared edge-native libraries: auth, database models, security utilities, UI components.  
