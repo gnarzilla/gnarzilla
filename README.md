@@ -1,89 +1,180 @@
 # thatch
 
-I develop with a focus on secure, performant, and privacy-focused applications deployed at the edge. My work primarily involves the Deadlight ecosystem, a set of open-source tools for modular web platforms, multi-protocol proxies, and edge-native libraries, using Cloudflare Workers, Tailscale and lightweight services. These tools emphasize zero-configuration setups, global scalability, and security. User empowerment is my core design principle. 
+Building the last internet that still works after the convenient internet fails.
 
-My public repositories are available at [github.com/gnarzilla](https://github.com/gnarzilla). For a detailed overview of Deadlight, see my blog post: [What is Deadlight?](https://deadlight.boo/post/what-is-deadlight) (September 18, 2025).
+I develop secure, performant, privacy-focused applications deployed at the edge. My work centers on **Deadlight** - an ecosystem of open-source tools for resilient web platforms, multi-protocol networking, and edge-native infrastructure. These systems are designed for the 80% of the planet that doesn't have datacenter-grade connectivity: mesh networks, satellite links, intermittent connectivity, resource-constrained devices.
 
-## Deadlight Ecosystem
+Core design principle: **user sovereignty over platform convenience.**
 
-Deadlight provides a way to maintain a personal online presence, such as a blog, email management, and privacy controls without requiring always-on servers or complex hosting. It addresses challenges like technical setup for blogging, email control, and privacy trade-offs.
+---
 
-The system consists of:
-- **blog.deadlight**: A secure blog platform on Cloudflare Workers, with global distribution for low-latency access.
-- **proxy.deadlight**: A network proxy for protocol bridging (e.g., SMTP, IMAP/S, SOCKS4/5), now including VPN gateway functionality. It runs locally as needed.
-- **lib.deadlight**: Shared libraries for authentication, database models, UI components, and utilities across the ecosystem.
-- **meshtastic.deadlight**: Internet-over-LoRa: A practical bridge between Meshtastic mesh networks and the Internet. This is a fork/targeted implementation of proxy.deadlight.
+## What I'm Building
 
-The umbrella project is **edge.deadlight**, which integrates these components into a cohesive platform.
+### Deadlight Ecosystem
 
-Benefits include no vendor lock-in, minimal costs for basic use, and extensibility for developers. Start with a simple blog deployment and add features like email integration or federation as required.
+A modular platform for maintaining online presence (blogging, email, communications) without requiring always-on servers or reliable connectivity. Built for real-world conditions: slow links, intermittent uptime, hostile networks, resource constraints.
 
-## Repositories
+**The problem:** Most web platforms assume fiber, cheap power, and stable connectivity. This excludes billions of users and makes the internet fragile.
 
-- **[meshtastic.deadlight](https://github.com/gnarzilla/meshtastic.deadlight)**  
-  Internet-over-LoRa: A practical bridge between Meshtastic mesh networks and the Internet. <br>
-  *Stars: 2* | *Language: C* <br>
-  [Project Website](https://meshtastic.deadlight.boo)
+**The solution:** Edge-native architecture that works over LoRa mesh, satellite with 2-second latency, 2G mobile, or text-only terminals. Posts are 3-8 KB. Zero JavaScript required. Deployable from a phone.
 
-- **[edge.deadlight](https://github.com/gnarzilla/edge.deadlight)**  
-  A production-ready edge platform combining modular site frameworks with proxy management. Built for performance, privacy, and scalability on Cloudflare.  
-  *Languages: JavaScript, C*
+#### Production Components
 
-- **[blog.deadlight](https://github.com/gnarzilla/blog.deadlight)**  
-  A modular, security-hardened blog platform with integrated multi-protocol proxy management. Supports email federation.  
-  *Stars: 5* | *Forks: 1* | *Language: JavaScript*  
-  [Live Demo](https://deadlight.boo) | [Getting Started](https://deadlight.boo/post/47) | [Use Cases](https://thatch-dt.deadlight.boo/post/use-cases)
+**[blog.deadlight](https://github.com/gnarzilla/blog.deadlight)** ⭐ 5  
+Cloudflare Workers blog platform optimized for terrible connectivity. <10 KB pages, works in lynx, post via email.  
+*JavaScript* · [Live Demo](https://deadlight.boo) · [Getting Started](https://deadlight.boo/post/47)
 
-- **[proxy.deadlight](https://github.com/gnarzilla/proxy.deadlight)**  
-  A high-performance network proxy serving as a stateless protocol bridge, including VPN gateway support. Connects TCP protocols to stateless systems.  
-  *Language: C*
+**[proxy.deadlight](https://github.com/gnarzilla/proxy.deadlight)**  
+High-performance protocol bridge (SMTP/IMAP/SOCKS4/5) + VPN gateway. Connects stateless edge apps to stateful protocols.  
+*C*
 
-- **[lib.deadlight](https://github.com/gnarzilla/lib.deadlight)**  
-  A modular, edge-native library providing core utilities for the Deadlight ecosystem.  
-  *Languages: JavaScript, C*
+**[meshtastic.deadlight](https://github.com/gnarzilla/meshtastic.deadlight)** ⭐ 2  
+Internet-over-LoRa gateway. Bridge between Meshtastic mesh networks and the public internet.  
+*C* · [Project Site](https://meshtastic.deadlight.boo)
 
-- **[deadlight-bootstrap](https://github.com/gnarzilla/deadlight-bootstrap)**  
-  A lightweight web framework on Cloudflare Workers with authentication and D1 integration. Suitable for simple sites.  
-  *Stars: 14* | *Forks: 1* | *Language: JavaScript*  
-  [Live Demo (v1)](https://v1.deadlight.boo)
+**[lib.deadlight](https://github.com/gnarzilla/lib.deadlight)**  
+Shared edge-native libraries: auth, database models, security utilities, UI components.  
+*JavaScript + C*
 
+**[edge.deadlight](https://github.com/gnarzilla/edge.deadlight)**  
+Umbrella platform integrating all components into a cohesive system.  
+*JavaScript + C*
 
-All repositories are open-source under permissive licenses. Contributions via issues or pull requests are welcome.
+**[deadlight-bootstrap](https://github.com/gnarzilla/deadlight-bootstrap)** ⭐ 14  
+Lightweight web framework starter for Cloudflare Workers + D1.  
+*JavaScript* · [Live Demo](https://v1.deadlight.boo)
 
-## Live Demos
+---
 
-[![D E A D L I G H T](https://deadlight.boo/favicon.ico)](https://deadlight.boo) | 
-[D E A D L I G H T](https://deadlight.boo): Main blog platform with proxy integration
+## Live Deployments
 
-[THREAT LEVEL MIDNIGHT](https://threat-level-midnight.deadlight.boo): Isolated deployment for testing federation.
+[![D E A D L I G H T](https://deadlight.boo/favicon.ico)](https://deadlight.boo) [deadlight.boo](https://deadlight.boo) - Main platform demo with proxy integration
 
-[![thatch-dt](https://thatch-dt.deadlight.boo/favicon.ico)](https://thatch-dt.deadlight.boo) | [thatch's blog](http://thatch-dt.deadlight.boo): Instance with use case examples.
+[![thatch-dt](https://thatch-dt.deadlight.boo/favicon.ico)](https://thatch-dt.deadlight.boo) [thatch-dt.deadlight.boo](https://thatch-dt.deadlight.boo) - Zero-JS instance with use case examples
 
-`v1.deadlight.boo` [v1.deadlight.boo](https://v1.deadlight.boo): Legacy bootstrap version.
+[![Meshtastic](https://meshtastic.deadlight.boo/favicon.ico)](https://meshtastic.deadlight.boo) [meshtastic.deadlight.boo](https://meshtastic.deadlight.boo) - LoRa gateway project blog
 
-[![Meshtastic-Deadlight](https://meshtastic.deadlight.boo/favicon.ico)](https://meshtastic.deadlight.boo) | 
-[Meshtastic-deadlight](https://meshtastic.deadlight.boo): Project and community blog for Meshtastic-Deadlight LoRa internet gateway. 
+[threat-level-midnight.deadlight.boo](https://threat-level-midnight.deadlight.boo) - Federation testing instance
 
-These demonstrate features like secure authentication, protocol bridging, and global delivery.
+[v1.deadlight.boo](https://v1.deadlight.boo) - Legacy bootstrap framework
 
+These demonstrate: sub-10 KB page weights, text-only client compatibility, global edge distribution, secure authentication, real-world resilience.
 
-## Skills and Technologies
+---
 
-- **Languages:** JavaScript (Node.js), C
-- **Platforms:** Cloudflare Workers, Pages, D1, Tailscale
-- **Tools:** Wrangler CLI, GLib, JWT, Markdown rendering
-- **Areas:** Edge computing, network proxies, security (CSRF/XSS protection, TLS), federation (email/ActivityPub), serverless deployments
+## Technical Philosophy
 
-## GitHub Stats
+**Optimize for reality, not ideals:**
+- Most connectivity is intermittent, high-latency, or expensive
+- Power is often scarce (solar, battery-only devices)
+- Many users have text-only interfaces (mesh clients, terminal browsers)
+- Resilience matters more than features
+
+**Design choices this drives:**
+- Edge-first architecture (Cloudflare Workers, D1)
+- Minimal dependencies (~8 npm packages for blog.deadlight)
+- No build steps where possible
+- Zero external requests by default
+- Works on ARM64 without emulation (deployable from phones)
+- Text content prioritized over media
+
+**Why C + JavaScript:**
+- C for protocol bridging, VPN, performance-critical networking
+- JavaScript for edge compute, serverless deployments
+- Both: auditable, minimal dependencies, portable
+
+---
+
+## Technical Stack
+
+**Languages:** JavaScript (Node.js, edge runtimes), C (GLib, POSIX)  
+**Platforms:** Cloudflare Workers, Pages, D1 · Tailscale  
+**Infrastructure:** Edge computing, serverless, mesh networking  
+**Security:** JWT, CSRF/XSS protection, TLS, rate limiting  
+**Protocols:** SMTP/IMAP, SOCKS4/5, HTTP/2, WebSocket, LoRa  
+**Tools:** Wrangler CLI, Markdown rendering (marked + DOMPurify)
+
+---
+
+## Current Focus
+
+**Immediate (2025 Q4):**
+- Meshtastic integration testing (LoRa → blog publishing)
+- Email-to-post workflow stabilization
+- Comment system for blog.deadlight
+- Federation between Deadlight instances
+
+**Near-term (2026 Q1-Q2):**
+- Full proxy dashboard integration
+- Meshtastic-native client for posting
+- Plugin architecture for blog.deadlight
+- Documentation expansion
+
+**Long-term:**
+- ActivityPub federation
+- HF radio transport layer
+- Satellite-optimized protocols
+- Offline-first mobile clients
+
+---
+
+## Why This Matters
+
+**The convenient internet is fragile.** It assumes:
+- Reliable power grids
+- Low-latency fiber connections
+- Always-on servers
+- Modern browsers with JavaScript
+- Cheap, unlimited data
+
+**Most of the world doesn't have this.** And increasingly, even those who do face:
+- Natural disasters disrupting infrastructure
+- Intentional network shutdowns
+- Privacy and surveillance concerns
+- Rising costs and platform lock-in
+
+**Deadlight proves you can build differently:**
+- Deploy a blog from a PinePhone over 2G
+- Post updates via LoRa mesh when conventional internet is down
+- Run a personal site with zero ongoing server costs
+- Maintain privacy without corporate platforms
+- Use email protocols for federation instead of proprietary APIs
+
+It's not about preparing for some hypothetical collapse. It's about building systems that work for **how people actually live** - not how Silicon Valley wishes they lived.
+
+---
+
+## Contributions Welcome
+
+All repositories are open-source under permissive licenses. Areas where help is especially valuable:
+
+- **Testing:** Email workflows on various providers, LoRa gateway deployment scenarios
+- **Documentation:** Setup guides, troubleshooting, translations
+- **Accessibility:** Testing with screen readers, keyboard navigation
+- **Performance:** Optimization for extremely constrained environments
+- **Use cases:** Real-world deployment stories and feedback
+
+File issues, open PRs, or reach out directly.
+
+---
+
+## Stats
 
 ![Gnarzilla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gnarzilla&show_icons=true&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gnarzilla&layout=compact&theme=radical&hide_border=true&hide=python)
 
+---
+
 ## Contact
 
 - **GitHub:** [@gnarzilla](https://github.com/gnarzilla)
 - **Email:** gnarzilla@deadlight.boo
-- **Blog:** See demos above
+- **Blog:** [deadlight.boo](https://deadlight.boo)
+- **Support:** [ko-fi.com/gnarzilla](https://ko-fi.com/gnarzilla)
 
-I am open to discussions on edge technologies or collaborations on Deadlight.
+Open to collaboration on edge computing, resilient networking, or related projects.
+
+---
+
+*"User empowerment is my core design principle"* sounds abstract. What I'm actually doing is: **building infrastructure that doesn't stop working when the infrastructure fails.**
