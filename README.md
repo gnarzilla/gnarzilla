@@ -22,7 +22,7 @@ A modular platform for maintaining online presence (blogging, email, communicati
 
 **[blog.deadlight](https://github.com/gnarzilla/blog.deadlight)** ⭐ 5  
 Cloudflare Workers blog platform optimized for terrible connectivity. <10 KB pages, works in lynx, post via email.  
-*JavaScript* · [Live Demo](https://deadlight.boo) · [Getting Started](https://deadlight.boo/post/47)
+*JavaScript* · [Live Demo](https://deadlight.boo) · [Getting Started]([https://deadlight.boo/post/47](https://deadlight.boo/post/what-is-deadlight)
 
 **[proxy.deadlight](https://github.com/gnarzilla/proxy.deadlight)**  
 High-performance protocol bridge (SMTP/IMAP/SOCKS4/5) + VPN gateway. Connects stateless edge apps to stateful protocols.  
