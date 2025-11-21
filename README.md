@@ -20,7 +20,7 @@ A modular platform for maintaining online presence (blogging, email, communicati
 
 #### Production Components
 
-**[blog.deadlight](https://github.com/gnarzilla/blog.deadlight)** ⭐ 5  
+**[blog.deadlight](https://github.com/gnarzilla/blog.deadlight)** ⭐ 6  
 Cloudflare Workers blog platform optimized for terrible connectivity. <10 KB pages, works in lynx, post via email.  
 *JavaScript* · [Live Demo](https://deadlight.boo) · [Getting Started](https://deadlight.boo/post/what-is-deadlight)
 
@@ -40,7 +40,7 @@ Shared edge-native libraries: auth, database models, security utilities, UI comp
 Umbrella platform integrating all components into a cohesive system.  
 *JavaScript + C*
 
-**[deadlight-bootstrap](https://github.com/gnarzilla/deadlight-bootstrap)** ⭐ 14  
+**[deadlight-bootstrap](https://github.com/gnarzilla/deadlight-bootstrap)** ⭐ 15
 Lightweight web framework starter for Cloudflare Workers + D1.  
 *JavaScript* · [Live Demo](https://v1.deadlight.boo)
 
