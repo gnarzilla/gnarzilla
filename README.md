@@ -50,7 +50,7 @@ Lightweight web framework starter for Cloudflare Workers + D1.
 
 [![D E A D L I G H T](https://deadlight.boo/favicon.ico)](https://deadlight.boo) [deadlight.boo](https://deadlight.boo) - Main platform demo with proxy integration
 
-[![thatch-dt](https://thatch-dt.deadlight.boo/apple-touch-icon.png)](https://thatch-dt.deadlight.boo) [thatch-dt.deadlight.boo](https://thatch-dt.deadlight.boo) - Zero-JS instance with use case examples
+[![thatch-dt](https://thatch-dt.deadlight.boo/favicon.ico)](https://thatch-dt.deadlight.boo) [thatch-dt.deadlight.boo](https://thatch-dt.deadlight.boo) - Zero-JS instance with use case examples
 
 [![Meshtastic](https://meshtastic.deadlight.boo/favicon.ico)](https://meshtastic.deadlight.boo) [meshtastic.deadlight.boo](https://meshtastic.deadlight.boo) - LoRa gateway project blog
 
