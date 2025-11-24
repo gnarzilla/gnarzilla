@@ -52,6 +52,8 @@ Lightweight web framework starter for Cloudflare Workers + D1.
 
 [![thatch-dt](https://thatch-dt.deadlight.boo/favicon.ico)](https://thatch-dt.deadlight.boo) [thatch-dt.deadlight.boo](https://thatch-dt.deadlight.boo) - Zero-JS instance with use case examples
 
+<img src="[image-url](https://thatch-dt.deadlight.boo/favicon.ico)" alt="thatch-dt favicon" style="width:38; height:38;">
+
 [![Meshtastic](https://meshtastic.deadlight.boo/favicon.ico)](https://meshtastic.deadlight.boo) [meshtastic.deadlight.boo](https://meshtastic.deadlight.boo) - LoRa gateway project blog
 
 [threat-level-midnight.deadlight.boo](https://threat-level-midnight.deadlight.boo) - Federation testing instance
