@@ -2,7 +2,7 @@
 
 Building the internet for the apocolypse. Update your blog with a can on a string from the smoldering rubble.
 
-I develop secure, performant, privacy-focused applications deployed at the edge. My work centers on **Deadlight** - an ecosystem of open-source tools for resilient web platforms, multi-protocol networking, and edge-native infrastructure. These systems are designed for the 80% of the planet that doesn't have datacenter-grade connectivity: mesh networks, satellite links, intermittent connectivity, resource-constrained devices.
+I develop secure, performant, privacy-focused applications deployed at the edge under the **Deadlight** ecosystem. A cohesive collection of open-source tools for resilient web platforms, multi-protocol networking, and edge-native infrastructure. These systems are designed for the 80% of the planet that doesn't have datacenter-grade connectivity: mesh networks, satellite links, intermittent connectivity, resource-constrained devices.
 
 Core design principle: **user sovereignty over platform convenience.**
 
