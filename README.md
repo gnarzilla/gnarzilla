@@ -164,6 +164,12 @@ File issues, open PRs, or reach out directly.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gnarzilla&layout=compact&theme=radical&hide_border=true&hide=python)
 
+## Stats
+
+![Gnarzilla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gnarzilla&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gnarzilla&layout=compact&theme=radical&hide_border=true&hide=python&langs_count=6)
+
 ---
 
 ## Contact
