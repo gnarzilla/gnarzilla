@@ -16,7 +16,7 @@ A modular platform for maintaining online presence (blogging, email, communicati
 
 **The problem:** Most web platforms assume fiber, cheap power, and stable connectivity. This excludes billions of users and makes the internet fragile.
 
-**The solution:** Edge-native architecture that works over LoRa mesh, satellite with 2-second latency, 2G mobile, or text-only terminals. Posts are 3-8 KB. Zero JavaScript required. Deployable from a phone.
+**The solution:** Edge-native architecture that works over LoRa mesh, satellite with 2-second latency, 2G mobile, or text-only terminals. Posts are 3-8 KB. Zero JavaScript required. Deployable from a phone. (Achieved via a C-based multi-protocol bridge and serverless JS frontend optimized for minimal payload and caching.)
 
 #### Production Components
 
