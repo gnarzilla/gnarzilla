@@ -160,12 +160,9 @@ File issues, open PRs, or reach out directly.
 
 ## Stats
 
-![Gnarzilla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gnarzilla&show_icons=true&theme=radical&hide_border=true)
+![Gnarzilla's GitHub Stats](https://github-readme-stats-five-chi-98.vercel.app/api?username=gnarzilla&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gnarzilla&layout=compact&theme=radical&hide_border=true&hide=python)
-
-
-![Stats](https://github-readme-stats.vercel.app/api?username=gnarzilla)
+![Top Languages](https://github-readme-stats-five-chi-98.vercel.app/api/top-langs/?username=gnarzilla&layout=compact&theme=radical&hide_border=true&hide=python)
 ---
 
 ## Contact
