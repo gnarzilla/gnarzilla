@@ -170,7 +170,7 @@ File issues, open PRs, or reach out directly.
 
 - **GitHub:** [@gnarzilla](https://github.com/gnarzilla)
 - **Email:** gnarzilla@deadlight.boo
-- **Blog:** [deadlight.boo](https://deadlight.boo)
+- **Blog:** [deadlight.boo](https://deadlight.boo), [thatch pad](https://thatch-dt.deadlight.boo)
 - **Support:** [ko-fi.com/gnarzilla](https://ko-fi.com/gnarzilla)
 
 Open to collaboration on edge computing, resilient networking, or related projects.
