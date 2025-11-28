@@ -56,7 +56,7 @@ Lightweight web framework starter for Cloudflare Workers + D1.
 
 [threat-level-midnight.deadlight.boo](https://threat-level-midnight.deadlight.boo) - Federation testing instance
 
-[![mobile.deadlight](https;//mobile.deadlight.boo/favicon.ico])[mobile.deadlight](https;//mobile.deadlight.boo) - Mobile deployed instance via Termux
+[![mobile.deadlight](https;//mobile.deadlight.boo/favicon.ico])(https;//mobile.deadlight.boo)[mobile.deadlight](https;//mobile.deadlight.boo) - Mobile deployed instance via Termux
 
 [v1.deadlight.boo](https://v1.deadlight.boo) - Legacy bootstrap framework
 
