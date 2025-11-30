@@ -50,15 +50,15 @@ Lightweight web framework starter for Cloudflare Workers + D1.
 
 [![D E A D L I G H T](https://deadlight.boo/favicon.ico)](https://deadlight.boo) [deadlight.boo](https://deadlight.boo) - Main platform demo with proxy integration
 
-[![thatch-dt](https://thatch-dt.deadlight.boo/favicon.ico)](https://thatch-dt.deadlight.boo) [thatch-dt.deadlight.boo](https://thatch-dt.deadlight.boo) - Zero-JS instance with use case examples
+[![thatch-dt](https://thatch-dt.deadlight.boo/favicon.ico)](https://thatch-dt.deadlight.boo) [thatch-dt.deadlight](https://thatch-dt.deadlight.boo) - Zero-JS instance with use case examples
 
-[![Meshtastic](https://meshtastic.deadlight.boo/favicon.ico)](https://meshtastic.deadlight.boo) [meshtastic.deadlight.boo](https://meshtastic.deadlight.boo) - LoRa gateway project blog
+[![meshtastic.deadlight](https://meshtastic.deadlight.boo/favicon.ico)](https://meshtastic.deadlight.boo) [meshtastic.deadlight](https://meshtastic.deadlight.boo) - LoRa gateway project blog
 
-[threat-level-midnight.deadlight.boo](https://threat-level-midnight.deadlight.boo) - Federation testing instance
+[threat-level-midnight.deadlight](https://threat-level-midnight.deadlight.boo) - Federation testing instance
 
 [![mobile.deadlight](https://mobile.deadlight.boo/favicon.ico)](https://mobile.deadlight.boo)[mobile.deadlight](https://mobile.deadlight.boo) -Mobile deployed instance via Termux
 
-[v1.deadlight.boo](https://v1.deadlight.boo) - Legacy bootstrap framework
+[v1.deadlight](https://v1.deadlight.boo) - Legacy bootstrap framework
 
 These demonstrate: sub-10 KB page weights, text-only client compatibility, global edge distribution, secure authentication, real-world resilience.
 
