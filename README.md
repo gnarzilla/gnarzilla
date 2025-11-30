@@ -52,11 +52,11 @@ Lightweight web framework starter for Cloudflare Workers + D1.
 
 [![thatch-dt](https://thatch-dt.deadlight.boo/favicon.ico)](https://thatch-dt.deadlight.boo) [thatch-dt.deadlight](https://thatch-dt.deadlight.boo) - Zero-JS instance with use case examples
 
+[![mobile.deadlight](https://mobile.deadlight.boo/favicon.ico)](https://mobile.deadlight.boo)[mobile.deadlight](https://mobile.deadlight.boo) - Amdroid deployed instance via Termux
+
 [![meshtastic.deadlight](https://meshtastic.deadlight.boo/favicon.ico)](https://meshtastic.deadlight.boo) [meshtastic.deadlight](https://meshtastic.deadlight.boo) - LoRa gateway project blog
 
 [threat-level-midnight.deadlight](https://threat-level-midnight.deadlight.boo) - Federation testing instance
-
-[![mobile.deadlight](https://mobile.deadlight.boo/favicon.ico)](https://mobile.deadlight.boo)[mobile.deadlight](https://mobile.deadlight.boo) - Amdroid deployed instance via Termux
 
 [v1.deadlight](https://v1.deadlight.boo) - Legacy bootstrap framework
 
