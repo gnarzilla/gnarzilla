@@ -1,6 +1,6 @@
 # thatch
 
-Building the internet for the apocolypse. Update your blog with a can on a string from the smoldering rubble.
+Building the internet for the apocalypse. Update your blog with a can on a string from the smoldering rubble.
 
 I develop secure, performant, privacy-focused applications deployed at the edge under the **Deadlight** ecosystem. A cohesive collection of open-source tools for resilient web platforms, multi-protocol networking, and edge-native infrastructure. These systems are designed for the 80% of the planet that doesn't have datacenter-grade connectivity: mesh networks, satellite links, intermittent connectivity, resource-constrained devices.
 
@@ -56,7 +56,7 @@ Lightweight web framework starter for Cloudflare Workers + D1.
 
 [![meshtastic.deadlight](https://meshtastic.deadlight.boo/favicon.ico)](https://meshtastic.deadlight.boo) [meshtastic.deadlight](https://meshtastic.deadlight.boo) - LoRa gateway project blog
 
-[![threat level midnight](https://threat-level-midnight.deadlight.boo/favicon.ico)](https://threat-level-midnight.deadlight.boo)[threat level midnight](https://threat-level-midnght.deadlight.boo) - Federation testing instance
+[![threat level midnight](https://threat-level-midnight.deadlight.boo/favicon.ico)](https://threat-level-midnight.deadlight.boo)[threat level midnight](https://threat-level-midnight.deadlight.boo) - Federation testing instance
 
 [v1.deadlight](https://v1.deadlight.boo) - Legacy bootstrap framework
 
