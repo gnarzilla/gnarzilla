@@ -171,11 +171,12 @@ File issues, open PRs, or reach out directly.
 ## Contact
 
 - **GitHub:** [@gnarzilla](https://github.com/gnarzilla)
-- **Email:** deadlight.boo, gnarzilla@deadlight.boo
+- **Email:** deadlight.boo@gmail.com, gnarzilla@deadlight.boo
 - **Discord**: [t.h.a.t.c.h](https://discord.com/users/t.h.a.t.c.h)
 - **Blog:** [deadlight.boo](https://deadlight.boo), [thatch pad](https://thatch-dt.deadlight.boo)
 - **Support:** [ko-fi.com/gnarzilla](https://ko-fi.com/gnarzilla)
-- **[Follow me on LinkedIn](https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=hickeyjeff)**
+
+**[Follow me on LinkedIn](https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=hickeyjeff)**
 
 Open to collaboration on edge computing, resilient networking, or related projects.
 
