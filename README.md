@@ -175,6 +175,7 @@ File issues, open PRs, or reach out directly.
 - **Discord**: [t.h.a.t.c.h](https://discord.com/users/t.h.a.t.c.h)
 - **Blog:** [deadlight.boo](https://deadlight.boo), [thatch pad](https://thatch-dt.deadlight.boo)
 - **Support:** [ko-fi.com/gnarzilla](https://ko-fi.com/gnarzilla)
+- Follow me on LinkedIn: https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=hickeyjeff
 
 Open to collaboration on edge computing, resilient networking, or related projects.
 
