@@ -170,7 +170,6 @@ File issues, open PRs, or reach out directly.
 
 ## Contact
 
-- **GitHub:** [@gnarzilla](https://github.com/gnarzilla)
 - **Email:** deadlight.boo@gmail.com, gnarzilla@deadlight.boo
 - **Discord**: [t.h.a.t.c.h](https://discord.com/users/t.h.a.t.c.h)
 - **Blog:** [deadlight.boo](https://deadlight.boo), [thatch pad](https://thatch-dt.deadlight.boo)
