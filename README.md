@@ -120,7 +120,7 @@ These demonstrate: sub-10 KB page weights, text-only client compatibility, globa
 
 ---
 
-## Why This Matters
+## Why This Matters (to me)
 
 **The convenient internet is fragile.** It assumes:
 - Reliable power grids
