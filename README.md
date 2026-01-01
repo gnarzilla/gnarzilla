@@ -100,7 +100,7 @@ These demonstrate: sub-10 KB page weights, text-only client compatibility, globa
 
 ## Current Focus
 
-**Immediate (2025 Q4):**
+**Immediate (2026 Q1):**
 - Meshtastic integration testing (LoRa → blog publishing)
 - Email-to-post workflow stabilization
 - Comment system for blog.deadlight
@@ -142,7 +142,7 @@ These demonstrate: sub-10 KB page weights, text-only client compatibility, globa
 - Maintain privacy without corporate platforms
 - Use email protocols for federation instead of proprietary APIs
 
-It's not about preparing for some hypothetical collapse. It's about building systems that work for **how people actually live** - not how Silicon Valley wishes they lived.
+It's not about preparing for some hypothetical collapse. It's about building systems that work for **how people actually live** or that they can afford, or just sinply can use without being exploited. 
 
 ---
 
