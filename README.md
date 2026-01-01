@@ -52,7 +52,7 @@ Lightweight web framework starter for Cloudflare Workers + D1.
 
 [![thatch pad](https://thatch-dt.deadlight.boo/favicon.ico)](https://thatch-dt.deadlight.boo)[thatch pad](https://thatch-dt.deadlight.boo) - Zero-JS instance with use case examples
 
-[![mobile.deadlight](https://mobile.deadlight.boo/favicon.ico)](https://mobile.deadlight.boo)[mobile.deadlight](https://mobile.deadlight.boo) - Amdroid deployed instance via Termux
+[![mobile.deadlight](https://mobile.deadlight.boo/favicon.ico)](https://mobile.deadlight.boo)[mobile.deadlight](https://mobile.deadlight.boo) - Android deployed instance via Termux
 
 [![meshtastic.deadlight](https://meshtastic.deadlight.boo/favicon.ico)](https://meshtastic.deadlight.boo) [meshtastic.deadlight](https://meshtastic.deadlight.boo) - LoRa gateway project blog
 
