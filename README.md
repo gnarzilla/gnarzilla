@@ -56,7 +56,7 @@ Lightweight web framework starter for Cloudflare Workers + D1.
 
 [![meshtastic.deadlight](https://meshtastic.deadlight.boo/favicon.ico)](https://meshtastic.deadlight.boo) [meshtastic.deadlight](https://meshtastic.deadlight.boo) - LoRa gateway project blog
 
-[![threat level midnight](https://threat-level-midnight.deadlight.boo/favicon.ico)(https://threat-level-midnight.deadlight.boo)[threat-level-midnight](https://threat-level-midnight.deadlight.boo) - Federation testing instance
+[![threat level midnight](https://threat-level-midnight.deadlight.boo/favicon.ico)](https://threat-level-midnight.deadlight.boo)[threat-level-midnight](https://threat-level-midnight.deadlight.boo) - Federation testing instance
 
 [v1.deadlight](https://v1.deadlight.boo) - Legacy bootstrap framework
 
