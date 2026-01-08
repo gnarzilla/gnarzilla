@@ -20,7 +20,7 @@ A modular platform for maintaining online presence (blogging, email, communicati
 
 #### Production Components
 
-**[blog.deadlight](https://github.com/gnarzilla/blog.deadlight)** ⭐ 12  
+**[blog.deadlight](https://github.com/gnarzilla/blog.deadlight)** ⭐ 13 
 Cloudflare Workers blog platform optimized for terrible connectivity. <10 KB pages, works in lynx, post via email.  
 *JavaScript* · [Live Demo](https://deadlight.boo) · [Getting Started](https://deadlight.boo/post/what-is-deadlight)
 
