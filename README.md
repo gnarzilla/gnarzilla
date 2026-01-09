@@ -103,7 +103,7 @@ These demonstrate: sub-10 KB page weights, text-only client compatibility, globa
 **Immediate (2026 Q1):**
 - Meshtastic integration testing (LoRa → blog publishing)
 - Email-to-post workflow stabilization
-- ~~Comment system for blog.deadlight~~
+- ~~Comment system for blog.deadlight~~ Live
 - Federation between Deadlight instances
 
 **Near-term (2026 Q1-Q2):**
