@@ -40,7 +40,7 @@ Shared edge-native libraries: auth, database models, security utilities, UI comp
 Umbrella platform integrating all components into a cohesive system.  
 *JavaScript + C*
 
-**[deadlight-bootstrap](https://github.com/gnarzilla/deadlight-bootstrap)** ⭐ 14  
+**[deadlight-bootstrap](https://github.com/gnarzilla/deadlight-bootstrap)** ⭐ 13  
 Lightweight web framework starter for Cloudflare Workers + D1.  
 *JavaScript* · [Live Demo](https://v1.deadlight.boo)
 
