@@ -28,7 +28,7 @@ Cloudflare Workers blog platform optimized for terrible connectivity. <10 KB pag
 High-performance protocol bridge (SMTP/IMAP/SOCKS4/5) + VPN gateway. Connects stateless edge apps to stateful protocols.  
 *C*
 
-**[meshtastic.deadlight](https://github.com/gnarzilla/meshtastic.deadlight)** ⭐ 3  
+**[meshtastic.deadlight](https://github.com/gnarzilla/meshtastic.deadlight)** ⭐ 5  
 Internet-over-LoRa gateway. Bridge between Meshtastic mesh networks and the public internet.  
 *C* · [Project Site](https://meshtastic.deadlight.boo) · [Getting Started](https://meshtastic.deadlight.boo/post/getting-started)
 
