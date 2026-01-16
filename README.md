@@ -1,10 +1,6 @@
 # thatch
 
-Building the internet for the apocalypse. Update your blog with a can on a string from the smoldering rubble.
-
-I develop secure, performant, privacy-focused applications deployed at the edge under the **Deadlight** ecosystem. A cohesive collection of open-source tools for resilient web platforms, multi-protocol networking, and edge-native infrastructure. These systems are designed for the 80% of the planet that doesn't have datacenter-grade connectivity: mesh networks, satellite links, intermittent connectivity, resource-constrained devices.
-
-Core design principle: **user sovereignty over platform convenience.**
+Building the internet for the apocalypse: Update your blog with a can on a string from the smoldering rubble. I develop secure, performant, privacy-focused apps in the Deadlight ecosystem—open-source tools for resilient web platforms on mesh networks, satellites, or spotty connections. Core principle: User sovereignty over platform convenience.
 
 ## What I'm Building
 
@@ -79,15 +75,6 @@ These demonstrate: sub-10 KB page weights, text-only client compatibility, globa
 - JavaScript for edge compute, serverless deployments
 - Both: auditable, minimal dependencies, portable
 
-## Technical Stack
-
-**Languages:** JavaScript (Node.js, edge runtimes), C (GLib, POSIX)  
-**Platforms:** Cloudflare Workers, Pages, D1 · Tailscale  
-**Infrastructure:** Edge computing, serverless, mesh networking  
-**Security:** JWT, CSRF/XSS protection, TLS, rate limiting  
-**Protocols:** SMTP/IMAP, SOCKS4/5, HTTP/2, WebSocket, LoRa  
-**Tools:** Wrangler CLI, Markdown rendering (marked + DOMPurify)
-
 ## Current Focus
 
 **Immediate (2026 Q1):**
@@ -110,14 +97,7 @@ These demonstrate: sub-10 KB page weights, text-only client compatibility, globa
 
 ## Why This Matters (to me)
 
-**The convenient internet is fragile.** It assumes:
-- Reliable power grids
-- Low-latency fiber connections
-- Always-on servers
-- Modern browsers with JavaScript
-- Cheap, unlimited data
-
-**Most of the world doesn't have this.** And increasingly, even those who do face:
+**Most of the world doesn't have data center connectivity.** And increasingly, even those who do face:
 - Natural disasters disrupting infrastructure
 - Intentional network shutdowns
 - Privacy and surveillance concerns
