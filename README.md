@@ -1,6 +1,6 @@
 # thatch
 
-Building the internet for the apocalypse: Update your blog from the rubble.
+Building the internet for the apocalypse: Update your blog from a can on a string from the smoldering rubble.
 
 Secure, performant, privacy-focused apps in the **Deadlight** ecosystem—open-source tools for resilient web platforms on mesh/satellite/spotty networks. User sovereignty first.
 
