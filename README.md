@@ -1,42 +1,17 @@
 # thatch
 
-Building the internet for the apocalypse: Update your blog with a can on a string from the smoldering rubble. I develop secure, performant, privacy-focused apps in the Deadlight ecosystem—open-source tools for resilient web platforms on mesh networks, satellites, or spotty connections. Core principle: User sovereignty over platform convenience.
+Building the internet for the apocalypse: Update your blog from the rubble.
 
-## What I'm Building
+Secure, performant, privacy-focused apps in the **Deadlight** ecosystem—open-source tools for resilient web platforms on mesh/satellite/spotty networks. User sovereignty first.
 
-### Deadlight Ecosystem
+## Deadlight Ecosystem
+Modular tools for blogging/email/comms without always-on servers. Optimized for slow links, batteries, text terminals.
 
-A modular platform for maintaining online presence (blogging, email, communications) without requiring always-on servers or reliable connectivity. Built for real-world conditions: slow links, intermittent uptime, hostile networks, resource constraints.
-
-**The problem:** Most web platforms assume fiber, cheap power, and stable connectivity. This excludes billions of users and makes the internet fragile.
-
-**The solution:** Edge-native architecture that works over LoRa mesh, satellite with 2-second latency, 2G mobile, or text-only terminals. Posts are 3-8 KB. Zero JavaScript required. Deployable from a phone. (Achieved via a C-based multi-protocol bridge and serverless JS frontend optimized for minimal payload and caching.)
-
-#### Production Components
-
-**[blog.deadlight](https://github.com/gnarzilla/blog.deadlight)** ⭐ 13  
-Cloudflare Workers blog platform optimized for terrible connectivity. <10 KB pages, works in lynx, post via email.  
-*JavaScript* · [Live Demo](https://deadlight.boo) · [Getting Started](https://deadlight.boo/post/what-is-deadlight)
-
-**[proxy.deadlight](https://github.com/gnarzilla/proxy.deadlight)**  
-High-performance protocol bridge (SMTP/IMAP/SOCKS4/5) + VPN gateway. Connects stateless edge apps to stateful protocols.  
-*C*
-
-**[meshtastic.deadlight](https://github.com/gnarzilla/meshtastic.deadlight)** ⭐ 7  
-Internet-over-LoRa gateway. Bridge between Meshtastic mesh networks and the public internet.  
-*C* · [Project Site](https://meshtastic.deadlight.boo) · [Getting Started](https://meshtastic.deadlight.boo/post/getting-started)
-
-**[lib.deadlight](https://github.com/gnarzilla/lib.deadlight)**  
-Shared edge-native libraries: auth, database models, security utilities, UI components.  
-*JavaScript + C*
-
-**[edge.deadlight](https://github.com/gnarzilla/edge.deadlight)**  
-Umbrella platform integrating all components into a cohesive system.  
-*JavaScript + C*
-
-**[deadlight-bootstrap](https://github.com/gnarzilla/deadlight-bootstrap)** ⭐ 13  
-Lightweight web framework starter for Cloudflare Workers + D1.  
-*JavaScript* · [Live Demo](https://v1.deadlight.boo)
+- **blog.deadlight** (JS, ⭐13): <10KB pages, email posting. [Demo](https://deadlight.boo)
+- **proxy.deadlight** (C): SMTP/IMAP/SOCKS bridge + VPN.
+- **meshtastic.deadlight** (C, ⭐7): LoRa-to-internet gateway. [Site](https://meshtastic.deadlight.boo)
+- **deadlight-bootstrap** (JS, ⭐13): Lightweight web framework starter for Cloudflare Workers + D1.  [Demo](https://v1.deadlight.boo)
+- **lib/edge.deadlight** (JS+C): Shared libs and umbrella platform.
 
 ## Live Deployments
 
@@ -54,89 +29,30 @@ Lightweight web framework starter for Cloudflare Workers + D1.
 
 These demonstrate: sub-10 KB page weights, text-only client compatibility, global edge distribution, secure authentication, real-world resilience.
 
-## Technical Philosophy
+## Philosophy & Stack
+Optimize for reality: Intermittent connectivity, scarce power, resilience > features.
 
-**Optimize for reality, not ideals:**
-- Most connectivity is intermittent, high-latency, or expensive
-- Power is often scarce (solar, battery-only devices)
-- Many users have text-only interfaces (mesh clients, terminal browsers)
-- Resilience matters more than features
+- Edge-first (Cloudflare Workers/D1)
+- Minimal deps, no JS required
+- C for networking, JS for serverless
 
-**Design choices this drives:**
-- Edge-first architecture (Cloudflare Workers, D1)
-- Minimal dependencies (~8 npm packages for blog.deadlight)
-- No build steps where possible
-- Zero external requests by default
-- Works on ARM64 without emulation (deployable from phones)
-- Text content prioritized over media
-
-**Why C + JavaScript:**
-- C for protocol bridging, VPN, performance-critical networking
-- JavaScript for edge compute, serverless deployments
-- Both: auditable, minimal dependencies, portable
+Stack: JS/C, SMTP/SOCKS/LoRa, Wrangler/Markdown.
 
 ## Current Focus
+- Meshtastic integration, email-to-post, comments.
+- Proxy dashboard, plugins, federation (ActivityPub/HF radio).
 
-**Immediate (2026 Q1):**
-- Meshtastic integration testing (LoRa → blog publishing)
-- Email-to-post workflow stabilization
-- ~~Comment system for blog.deadlight~~ Live
-- Federation between Deadlight instances
+## Why Deadlight?
+The internet's fragile for most people. Deadlight enables privacy-focused sites on 2G/LoRa without servers/costs/exploitation.
 
-**Near-term (2026 Q1-Q2):**
-- Full proxy dashboard integration
-- Meshtastic-native client for posting
-- Plugin architecture for blog.deadlight
-- Documentation expansion
+## Contribute
+Test, docs, accessibility help welcome. Issues/PRs open.
 
-**Long-term:**
-- ActivityPub federation
-- HF radio transport layer
-- Satellite-optimized protocols
-- Offline-first mobile clients
-
-## Why This Matters (to me)
-
-**Most of the world doesn't have data center connectivity.** And increasingly, even those who do face:
-- Natural disasters disrupting infrastructure
-- Intentional network shutdowns
-- Privacy and surveillance concerns
-- Rising costs and platform lock-in
-
-**Deadlight proves you can build differently:**
-- Deploy a blog from a PinePhone over 2G
-- Post updates via LoRa mesh when conventional internet is down
-- Run a personal site with zero ongoing server costs
-- Maintain privacy without corporate platforms
-- Use email protocols for federation instead of proprietary APIs
-
-It's not about preparing for some hypothetical collapse. It's about building systems that work for **how people actually live** or that they can afford, or just sinply can use without being exploited. 
-
-## Contributions Welcome
-
-All repositories are open-source under permissive licenses. Areas where help is especially valuable:
-
-- **Testing:** Email workflows on various providers, LoRa gateway deployment scenarios
-- **Documentation:** Setup guides, troubleshooting, translations
-- **Accessibility:** Testing with screen readers, keyboard navigation
-- **Performance:** Optimization for extremely constrained environments
-- **Use cases:** Real-world deployment stories and feedback
-
-File issues, open PRs, or reach out directly.
+## Contact
+Email: deadlight.boo@gmail.com | Discord: t.h.a.t.c.h | Blog: deadlight.boo | [Ko-fi](https://ko-fi.com/gnarzilla)
 
 ## Stats
 
 ![Gnarzilla's GitHub Stats](https://github-readme-stats-five-chi-99.vercel.app/api?username=gnarzilla&show_icons=true&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats-five-chi-99.vercel.app/api/top-langs/?username=gnarzilla&layout=compact&theme=radical&hide_border=true&hide=python)
-
-## Contact
-
-- **Email:** deadlight.boo@gmail.com, gnarzilla@deadlight.boo
-- **Discord**: [t.h.a.t.c.h](https://discord.com/users/t.h.a.t.c.h)
-- **Blog:** [deadlight.boo](https://deadlight.boo), [thatch pad](https://thatch-dt.deadlight.boo)
-- **Support:** [ko-fi.com/gnarzilla](https://ko-fi.com/gnarzilla)
-
-**[Follow me on LinkedIn](https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=hickeyjeff)**
-
-Open to collaboration on edge computing, resilient networking, or related projects.
