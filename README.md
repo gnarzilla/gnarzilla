@@ -50,7 +50,7 @@ The internet's fragile for most people. Deadlight enables privacy-focused sites 
 Test, docs, accessibility help welcome. Issues/PRs open.
 
 ## Contact
-Email: deadlight.boo@gmail.com | Discord: t.h.a.t.c.h | Blog: deadlight.boo | [Ko-fi](https://ko-fi.com/gnarzilla)
+Email: deadlight.boo@gmail.com | Discord: t.h.a.t.c.h | [Blog: deadlight.boo](https://deadlight.boo) | [Ko-fi](https://ko-fi.com/gnarzilla)
 
 ## Stats
 
