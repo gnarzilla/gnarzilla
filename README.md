@@ -6,8 +6,6 @@ I develop secure, performant, privacy-focused applications deployed at the edge 
 
 Core design principle: **user sovereignty over platform convenience.**
 
----
-
 ## What I'm Building
 
 ### Deadlight Ecosystem
@@ -28,7 +26,7 @@ Cloudflare Workers blog platform optimized for terrible connectivity. <10 KB pag
 High-performance protocol bridge (SMTP/IMAP/SOCKS4/5) + VPN gateway. Connects stateless edge apps to stateful protocols.  
 *C*
 
-**[meshtastic.deadlight](https://github.com/gnarzilla/meshtastic.deadlight)** ⭐ 5  
+**[meshtastic.deadlight](https://github.com/gnarzilla/meshtastic.deadlight)** ⭐ 7  
 Internet-over-LoRa gateway. Bridge between Meshtastic mesh networks and the public internet.  
 *C* · [Project Site](https://meshtastic.deadlight.boo) · [Getting Started](https://meshtastic.deadlight.boo/post/getting-started)
 
@@ -43,8 +41,6 @@ Umbrella platform integrating all components into a cohesive system.
 **[deadlight-bootstrap](https://github.com/gnarzilla/deadlight-bootstrap)** ⭐ 13  
 Lightweight web framework starter for Cloudflare Workers + D1.  
 *JavaScript* · [Live Demo](https://v1.deadlight.boo)
-
----
 
 ## Live Deployments
 
@@ -61,8 +57,6 @@ Lightweight web framework starter for Cloudflare Workers + D1.
 [v1.deadlight](https://v1.deadlight.boo) - Legacy bootstrap framework
 
 These demonstrate: sub-10 KB page weights, text-only client compatibility, global edge distribution, secure authentication, real-world resilience.
-
----
 
 ## Technical Philosophy
 
@@ -85,8 +79,6 @@ These demonstrate: sub-10 KB page weights, text-only client compatibility, globa
 - JavaScript for edge compute, serverless deployments
 - Both: auditable, minimal dependencies, portable
 
----
-
 ## Technical Stack
 
 **Languages:** JavaScript (Node.js, edge runtimes), C (GLib, POSIX)  
@@ -95,8 +87,6 @@ These demonstrate: sub-10 KB page weights, text-only client compatibility, globa
 **Security:** JWT, CSRF/XSS protection, TLS, rate limiting  
 **Protocols:** SMTP/IMAP, SOCKS4/5, HTTP/2, WebSocket, LoRa  
 **Tools:** Wrangler CLI, Markdown rendering (marked + DOMPurify)
-
----
 
 ## Current Focus
 
@@ -117,8 +107,6 @@ These demonstrate: sub-10 KB page weights, text-only client compatibility, globa
 - HF radio transport layer
 - Satellite-optimized protocols
 - Offline-first mobile clients
-
----
 
 ## Why This Matters (to me)
 
@@ -144,8 +132,6 @@ These demonstrate: sub-10 KB page weights, text-only client compatibility, globa
 
 It's not about preparing for some hypothetical collapse. It's about building systems that work for **how people actually live** or that they can afford, or just sinply can use without being exploited. 
 
----
-
 ## Contributions Welcome
 
 All repositories are open-source under permissive licenses. Areas where help is especially valuable:
@@ -158,15 +144,11 @@ All repositories are open-source under permissive licenses. Areas where help is 
 
 File issues, open PRs, or reach out directly.
 
----
-
 ## Stats
 
 ![Gnarzilla's GitHub Stats](https://github-readme-stats-five-chi-99.vercel.app/api?username=gnarzilla&show_icons=true&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats-five-chi-99.vercel.app/api/top-langs/?username=gnarzilla&layout=compact&theme=radical&hide_border=true&hide=python)
-
----
 
 ## Contact
 
@@ -178,5 +160,3 @@ File issues, open PRs, or reach out directly.
 **[Follow me on LinkedIn](https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=hickeyjeff)**
 
 Open to collaboration on edge computing, resilient networking, or related projects.
-
----
