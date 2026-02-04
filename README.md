@@ -9,10 +9,10 @@ The Deadlight stack has three layers: transport (proxy.deadlight bridges protoco
 ## Deadlight Ecosystem
 Modular tools for blogging/email/comms without always-on servers. Optimized for slow links, batteries, text terminals.
 
-- **blog.deadlight** (JS, ⭐13): <10KB pages, email posting. [Demo](https://deadlight.boo)
-- **proxy.deadlight** (C, ⭐1): SMTP/IMAP/SOCKS bridge + VPN. [Live Demo Endpoints](https://deadlight.boo/post/proxy-directory)
-- **meshtastic.deadlight** (C, ⭐9): LoRa-to-internet gateway. [Site](https://meshtastic.deadlight.boo)
-- **deadlight-bootstrap** (JS, ⭐14): Lightweight web framework starter for Cloudflare Workers + D1.  [Demo](https://v1.deadlight.boo)
+- **blog.deadlight** (JS, ⭐ 13): <10KB pages, email posting. [Demo](https://deadlight.boo)
+- **proxy.deadlight** (C, ⭐ 1): SMTP/IMAP/SOCKS bridge + VPN. [Live Demo Endpoints](https://deadlight.boo/post/proxy-directory)
+- **meshtastic.deadlight** (C, ⭐ 9): LoRa-to-internet gateway. [Site](https://meshtastic.deadlight.boo)
+- **deadlight-bootstrap** (JS, ⭐ 15): Lightweight web framework starter for Cloudflare Workers + D1.  [Demo](https://v1.deadlight.boo)
 - **lib/edge.deadlight** (JS+C): Shared libs and umbrella platform.
 - **vault.deadlight** (C): Local encrypted credential store for CLI/proxies. Offline-friendly, integrates with proxy.deadlight. (MVP in progress)
 
