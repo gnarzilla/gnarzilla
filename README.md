@@ -2,7 +2,7 @@
 
 Building the internet for the apocalypse: Update your blog from a can on a string from the smoldering rubble.
 
-Secure, performant, privacy-focused apps in the **Deadlight** ecosystem—open-source tools for resilient web platforms on mesh/satellite/spotty networks. User sovereignty first.
+Secure, performant, privacy-focused apps in the **Deadlight** ecosystem: open-source tools for resilient web platforms on mesh/satellite/spotty networks. User sovereignty first.
 
 The Deadlight stack has three layers: transport (proxy.deadlight bridges protocols like SMTP/SOCKS/LoRa), security (vault.deadlight handles credentials without network dependency), and application (blog.deadlight publishes content from anywhere). Each component works standalone but thrives together.
 
