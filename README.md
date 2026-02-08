@@ -18,7 +18,7 @@ Modular tools for blogging/email/comms without always-on servers. Optimized for 
 
 ## Live Deployments
 
-[![D E A D L I G H T](https://deadlight.boo/favicon.ico)](https://deadlight.boo)[deadlight.boo](https://deadlight.boo) - Main platform demo with proxy integration
+[![D E A D L I G H T](https://deadlight.boo/apple-touch-icon.png)](https://deadlight.boo)[deadlight.boo](https://deadlight.boo) - Main platform demo with proxy integration
 
 [![thatch pad](https://thatch-dt.deadlight.boo/favicon.ico)](https://thatch-dt.deadlight.boo)[thatch pad](https://thatch-dt.deadlight.boo) - Zero-JS instance with use case examples
 
