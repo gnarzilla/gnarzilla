@@ -56,8 +56,3 @@ Email: deadlight.boo@gmail.com | Discord: t.h.a.t.c.h | [Blog: deadlight.boo](ht
 
 ## Stats
 
-![Gnarzilla's Github](https://vercel.com/thatchs-projects-3c3f5445/github-readme-stats/7QZKPudZB6QGzcEfKQGyoBgTLrjA)
-
-![Gnarzilla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gnarzilla&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats-five-chi-99.vercel.app/api/top-langs/?username=gnarzilla&layout=compact&theme=radical&hide_border=true&hide=python)
