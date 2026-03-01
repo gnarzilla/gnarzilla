@@ -45,12 +45,6 @@ Stack: JS/C, SMTP/SOCKS/LoRa, Wrangler/Markdown.
 - Meshtastic integration, email-to-post, comments.
 - Proxy dashboard, plugins, federation (ActivityPub/HF radio).
 
-## Why Deadlight?
-The internet's fragile for most people. Deadlight enables privacy-focused sites on 2G/LoRa without servers/costs/exploitation.
-
-## Contribute
-Test, docs, accessibility help welcome. Issues/PRs open.
-
 ## Contact
 Email: deadlight.boo@gmail.com | Discord: t.h.a.t.c.h | [Blog: deadlight.boo](https://deadlight.boo) | [Ko-fi](https://ko-fi.com/gnarzilla)
 
