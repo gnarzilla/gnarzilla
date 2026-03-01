@@ -48,5 +48,3 @@ Stack: JS/C, SMTP/SOCKS/LoRa, Wrangler/Markdown.
 ## Contact
 Email: deadlight.boo@gmail.com | Discord: t.h.a.t.c.h | [Blog: deadlight.boo](https://deadlight.boo) | [Ko-fi](https://ko-fi.com/gnarzilla)
 
-## Stats
-
