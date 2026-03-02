@@ -1,4 +1,4 @@
-# thatch
+8# thatch
 
 Building the internet for the apocalypse: Update your blog from a can on a string from the smoldering rubble.
 
@@ -16,7 +16,7 @@ Modular tools for blogging/email/comms without always-on servers. Optimized for 
 - **lib/edge.deadlight** (JS+C): Shared libs and umbrella platform.
 - **vault.deadlight** (C): Local encrypted credential store for CLI/proxies. Offline-friendly, integrates with proxy.deadlight. (MVP in progress)
 
-## Live Deployments
+## Live
 
 [![D E A D L I G H T](https://deadlight.boo/favicon.ico)](https://deadlight.boo) [deadlight.boo](https://deadlight.boo) - Main platform demo with proxy integration
 
