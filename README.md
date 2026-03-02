@@ -1,4 +1,4 @@
-8# thatch
+# thatch
 
 Building the internet for the apocalypse: Update your blog from a can on a string from the smoldering rubble.
 
