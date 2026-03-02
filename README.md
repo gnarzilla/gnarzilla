@@ -32,7 +32,7 @@ Modular tools for blogging/email/comms without always-on servers. Optimized for 
 
 These demonstrate: sub-10 KB page weights, text-only client compatibility, global edge distribution, secure authentication, real-world resilience.
 
-## Philosophy & Stack
+## Stack
 Optimize for reality: Intermittent connectivity, scarce power, resilience > features.
 
 - Edge-first (Cloudflare Workers/D1)
