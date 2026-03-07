@@ -26,7 +26,7 @@ Modular tools for blogging/email/comms without always-on servers. Optimized for 
 
 <img src="https://meshtastic.deadlight.boo/apple-touch-icon.png" width="32" height="32">[meshtastic.deadlight](https://meshtastic.deadlight.boo) - LoRa gateway project blog
 
-<img src="https://threat-level-midnight.deadlight.boo/apple-touch-icon.png" width="32" height="32">[threat-level-midnight](https://threat-level-midnight.deadlight.boo) - Federation testing instance
+<img src="https://threat-level-midnight.deadlight.boo/apple-touch-icon.png" width="32" height="32"> [threat-level-midnight](https://threat-level-midnight.deadlight.boo) - Federation testing instance
 
 [v1.deadlight](https://v1.deadlight.boo) - Legacy bootstrap framework
 
