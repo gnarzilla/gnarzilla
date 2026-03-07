@@ -20,7 +20,7 @@ Modular tools for blogging/email/comms without always-on servers. Optimized for 
 
 <img src="https://deadlight.boo/apple-touch-icon.png" width="32" height="32"> [deadlight.boo](https://deadlight.boo) - Main platform demo with proxy integration
 
-[![thatch pad](https://thatch-dt.deadlight.boo/favicon.ico)](https://thatch-dt.deadlight.boo) [thatch pad](https://thatch-dt.deadlight.boo) - Zero-JS instance with use case examples
+<img src="https://thatch-dt.deadlight.boo/apple-touch-icon.png" width="32" height="32"> [thatch pad](https://thatch-dt.deadlight.boo) - Zero-JS instance with use case examples
 
 [![mobile.deadlight](https://mobile.deadlight.boo/favicon.ico)](https://mobile.deadlight.boo) [mobile.deadlight](https://mobile.deadlight.boo) - Android deployed instance via Termux
 
