@@ -11,7 +11,7 @@ Modular tools for blogging/email/comms without always-on servers. Optimized for 
 
 - **blog.deadlight** (JS, ⭐ 13): <10KB pages, email posting. [Demo](https://deadlight.boo)
 - **proxy.deadlight** (C, ⭐ 1): SMTP/IMAP/SOCKS bridge + VPN. [Live Demo Endpoints](https://deadlight.boo/post/proxy-directory)
-- **deadmesh** (C, ⭐ 14): LoRa-to-internet gateway. [Site](https://deadmesh.deadlight.boo)
+- **deadmesh** (C, ⭐ 15): LoRa-to-internet gateway. [Site](https://deadmesh.deadlight.boo)
 - **deadlight-bootstrap** (JS, ⭐ 17): Lightweight web framework starter for Cloudflare Workers + D1.  [Demo](https://v1.deadlight.boo)
 - **lib/edge.deadlight** (JS+C): Shared libs and umbrella platform.
 - **vault.deadlight** (C): Local encrypted credential store for CLI/proxies. Offline-friendly, integrates with proxy.deadlight. (MVP in progress)
