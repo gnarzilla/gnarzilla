@@ -24,7 +24,9 @@ Modular tools for blogging/email/comms without always-on servers. Optimized for 
 
 <img src="https://mobile.deadlight.boo/apple-touch-icon.png" width="32" height="32">[mobile.deadlight](https://mobile.deadlight.boo) - Android deployed instance via Termux
 
-<img src="https://deadmesh.deadlight.boo/apple-touch-icon.png" width="32" height="32">[deadmesh](https://deadmesh.deadlight.boo) - LoRa gateway project blog
+<img src="https://deadmesh.deadlight.boo/apple-touch-icon.png" width="32" height="32">[deadmesh](https://deadmesh.deadlight.boo) - LoRa gateway project blog (deadlight subdomain)
+
+<img src="https://deadmesh.boo/apple-touch-icon.png" width="32" height="32">[deadmesh.boo](https://deadmesh.boo) - LoRa gateway project blog, dedicated domain
 
 <img src="https://threat-level-midnight.deadlight.boo/apple-touch-icon.png" width="32" height="32"> [threat-level-midnight](https://threat-level-midnight.deadlight.boo) - Federation testing instance
 
