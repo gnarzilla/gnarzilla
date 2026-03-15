@@ -20,13 +20,13 @@ Modular tools for blogging/email/comms without always-on servers. Optimized for 
 
 <img src="https://deadlight.boo/apple-touch-icon.png" width="32" height="32"> [deadlight.boo](https://deadlight.boo) - Main platform demo with proxy integration
 
+<img src="https://deadmesh.boo/apple-touch-icon.png" width="32" height="32">[deadmesh.boo](https://deadmesh.boo) - LoRa gateway project blog, dedicated domain
+
 <img src="https://thatch-dt.deadlight.boo/apple-touch-icon.png" width="32" height="32"> [thatch pad](https://thatch-dt.deadlight.boo) - Zero-JS instance with use case examples
 
 <img src="https://mobile.deadlight.boo/apple-touch-icon.png" width="32" height="32">[mobile.deadlight](https://mobile.deadlight.boo) - Android deployed instance via Termux
 
 <img src="https://deadmesh.deadlight.boo/apple-touch-icon.png" width="32" height="32">[deadmesh](https://deadmesh.deadlight.boo) - LoRa gateway project blog (deadlight subdomain)
-
-<img src="https://deadmesh.boo/apple-touch-icon.png" width="32" height="32">[deadmesh.boo](https://deadmesh.boo) - LoRa gateway project blog, dedicated domain
 
 <img src="https://threat-level-midnight.deadlight.boo/apple-touch-icon.png" width="32" height="32"> [threat-level-midnight](https://threat-level-midnight.deadlight.boo) - Federation testing instance
 
