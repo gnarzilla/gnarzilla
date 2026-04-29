@@ -31,9 +31,10 @@ Modular tools for blogging/email/comms without always-on servers. Optimized for 
 <details>
      <summary>Archive</summary>
 
-  [v1.deadlight](https://v1.deadlight.boo) - Legacy bootstrap framework
+     <img src="https://deadmesh.deadlight.boo/apple-touch-icon.png" width="32" height="32">[deadmesh](https://deadmesh.deadlight.boo) - LoRa gateway project blog (deadlight subdomain)
 
-  <img src="https://deadmesh.deadlight.boo/apple-touch-icon.png" width="32" height="32">[deadmesh](https://deadmesh.deadlight.boo) - LoRa gateway project blog (deadlight subdomain)
+       
+[v1.deadlight](https://v1.deadlight.boo) - Legacy bootstrap framework
 
 </details>
 
