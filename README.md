@@ -22,7 +22,7 @@ Modular tools for blogging/email/comms without always-on servers. Optimized for 
 
 <img src="https://deadmesh.boo/apple-touch-icon.png" width="32" height="32"> [deadmesh](https://deadmesh.boo) - LoRa gateway project blog
 
-<img src="https://thatch-dt.deadlight.boo/apple-touch-icon.png" width="32" height="32"> [thatch pad](https://thatch-dt.deadlight.boo) - Zero-JS instance with use case examples
+<img src="https://thatch-dt.deadlight.boo/apple-touch-icon.png" width="32" height="32"> [thatch](https://thatch-dt.deadlight.boo) - Zero-JS instance with use case examples
 
 <img src="https://mobile.deadlight.boo/apple-touch-icon.png" width="32" height="32"> [mobile.deadlight](https://mobile.deadlight.boo) - Android deployed instance via Termux
 
