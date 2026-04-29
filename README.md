@@ -26,11 +26,16 @@ Modular tools for blogging/email/comms without always-on servers. Optimized for 
 
 <img src="https://mobile.deadlight.boo/apple-touch-icon.png" width="32" height="32"> [mobile.deadlight](https://mobile.deadlight.boo) - Android deployed instance via Termux
 
-<img src="https://deadmesh.deadlight.boo/apple-touch-icon.png" width="32" height="32">[deadmesh](https://deadmesh.deadlight.boo) - LoRa gateway project blog (deadlight subdomain)
-
 <img src="https://threat-level-midnight.deadlight.boo/apple-touch-icon.png" width="32" height="32">  [threat-level-midnight](https://threat-level-midnight.deadlight.boo) - Federation testing instance
 
-[v1.deadlight](https://v1.deadlight.boo) - Legacy bootstrap framework
+<details>
+     <summary>Archive</summary>
+
+  [v1.deadlight](https://v1.deadlight.boo) - Legacy bootstrap framework
+
+  <img src="https://deadmesh.deadlight.boo/apple-touch-icon.png" width="32" height="32">[deadmesh](https://deadmesh.deadlight.boo) - LoRa gateway project blog (deadlight subdomain)
+
+</details>
 
 These demonstrate: sub-10 KB page weights, text-only client compatibility, global edge distribution, secure authentication, real-world resilience.
 
