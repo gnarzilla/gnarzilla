@@ -48,10 +48,6 @@ Optimize for reality: Intermittent connectivity, scarce power, resilience > feat
 
 Stack: JS/C, SMTP/SOCKS/LoRa, Wrangler/Markdown.
 
-## Current Focus
-- Meshtastic integration, email-to-post, comments.
-- Proxy dashboard, plugins, federation (ActivityPub/HF radio).
-
 ## Contact
 Email: gnarzilla@deadlight.boo | Discord: t.h.a.t.c.h | [Blog: deadlight.boo](https://deadlight.boo) | [Ko-fi](https://ko-fi.com/gnarzilla)
 
