@@ -42,7 +42,7 @@ These demonstrate: sub-10 KB page weights, text-only client compatibility, globa
 ## Stack
 Optimize for reality: Intermittent connectivity, scarce power, resilience > features.
 
-- Edge-first (Cloudflare Workers/D1)
+- Edge-first (Android/LocalOnly, Cloudflare Workers/D1)
 - Minimal deps, no JS required
 - C for networking, JS for serverless
 
