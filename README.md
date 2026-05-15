@@ -16,7 +16,7 @@ Modular tools for blogging/email/comms without always-on servers. Optimized for 
 - **lib/edge.deadlight** (JS+C): Shared libs and umbrella platform.
 - **vault.deadlight** (C): Local encrypted credential store for CLI/proxies. Offline-friendly, integrates with proxy.deadlight. (MVP in progress)
 
-![deadlight-playstore](https://github.com/gnarzilla/deadlight-proxy/src/assets/app/deadlight-playstore.png)[Available on Ko-fi](https://ko-fi.com/s/bc2cb7c2ee)
+![deadlight-playstore](https://github.com/gnarzilla/deadlight-proxy/src/assets/app/deadlight-playstore.png) [Available on Ko-fi](https://ko-fi.com/s/bc2cb7c2ee)
 
 ## Live
 
