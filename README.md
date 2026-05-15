@@ -10,7 +10,7 @@ The Deadlight stack has three layers: transport (proxy.deadlight bridges protoco
 Modular tools for blogging/email/comms without always-on servers. Optimized for slow links, batteries, text terminals.
 
 - **blog.deadlight** (JS, ★ 14): <10KB pages, email posting. [Demo](https://deadlight.boo)
-- **deadlight-proxy** (C, ★ 6): SMTP/IMAP/SOCKS bridge + VPN. [Android App Now Available for Download](https://ko-fi.com/s/bc2cb7c2ee)
+- **deadlight-proxy** (C, ★ 6): HTTP/HTTPS/SMTP/IMAP/SOCKS bridge + VPN. [Android App Now Available for Download](https://ko-fi.com/s/bc2cb7c2ee)
 - **deadmesh** (C, ★ 53): LoRa-to-internet gateway. [Site](https://deadmesh.boo)
 - **deadlight-bootstrap** (JS, ★ 17): Lightweight web framework starter for Cloudflare Workers + D1.  [Demo](https://v1.deadlight.boo)
 - **lib/edge.deadlight** (JS+C): Shared libs and umbrella platform.
