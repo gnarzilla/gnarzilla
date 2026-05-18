@@ -13,18 +13,10 @@ Modular tools for blogging/email/comms without always-on servers. Optimized for 
 - **deadlight-proxy** (C, ★ 7): HTTP/HTTPS/SMTP/IMAP/SOCKS bridge + VPN. 
 
 <p align="center">
-  <a href="https://ko-fi.com/s/bc2cb7c2ee">
-    <img src="https://raw.githubusercontent.com/gnarzilla/deadlight-proxy/main/src/assets/app/deadlight-playstore.png"
-         width="96"
-         alt="Download Deadlight Proxy for Android">
-  </a>
-</p>
-
-<p align="center">
   <a href="https://ko-fi.com/s/bc2cb7c2ee" target="_blank">
     <img src="https://raw.githubusercontent.com/gnarzilla/blog.deadlight/main/src/assets/apple-touch-icon/App-Store-Logo-transp.png"
-         width="88"
-         alt="Download Deadlight Proxy">
+         width="96"
+         alt="Download Deadlight Proxy for Android">
   </a>
 </p>
 
