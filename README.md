@@ -24,7 +24,7 @@ Modular tools for blogging/email/comms without always-on servers. Optimized for 
   Android APK Available Now
 </h3>
 
-- **deadmesh** (C, ★ 54): LoRa-to-internet gateway. [Project site](https://deadmesh.boo)
+- **deadmesh** (C, ★ 56): LoRa-to-internet gateway. [Project site](https://deadmesh.boo)
 - **deadlight-bootstrap** (JS, ★ 17): Lightweight web framework starter for Cloudflare Workers + D1.  [Demo](https://v1.deadlight.boo)
 - **lib/edge.deadlight** (JS+C): Shared libs and umbrella platform.
 - **vault.deadlight** (C): Local encrypted credential store for CLI/proxies. Offline-friendly, integrates with proxy.deadlight. (MVP in progress)
