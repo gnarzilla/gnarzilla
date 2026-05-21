@@ -10,7 +10,7 @@ The Deadlight stack has three layers: transport (proxy.deadlight bridges protoco
 Modular tools for blogging/email/comms without always-on servers. Optimized for slow links, batteries, text terminals.
 
 - **blog.deadlight** (JS, ★ 14): <10KB pages, email posting. [Demo](https://deadlight.boo)
-- **deadlight-proxy** (C, ★ 7): HTTP/HTTPS/SMTP/IMAP/SOCKS bridge + VPN. 
+- **deadlight-proxy** (C, ★ 7): HTTP/HTTPS/SMTP/IMAP/FTP/SOCKS bridge + VPN. 
 
 <table>
   <tr>
