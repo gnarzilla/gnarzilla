@@ -10,7 +10,7 @@ The Deadlight stack has three layers: transport (proxy.deadlight bridges protoco
 Modular tools for blogging/email/comms without always-on servers. Optimized for slow links, batteries, text terminals.
 
 - **blog.deadlight** (JS, ★ 14): <10KB pages, email posting. [Demo](https://deadlight.boo)
-- **deadlight-proxy** (C, ★ 7): HTTP/HTTPS/SMTP/IMAP/FTP/SOCKS bridge + VPN. 
+- **deadlight-proxy** (C, ★ 7): HTTP/HTTPS/SMTP/IMAP/FTP/SOCKS bridge + VPN. [Android App Now Available](#peadlight-proxy-android-app)
 
 - **deadmesh** (C, ★ 56): LoRa-to-internet gateway. [Project site](https://deadmesh.boo)
 - **deadlight-bootstrap** (JS, ★ 17): Lightweight web framework starter for Cloudflare Workers + D1.  [Demo](https://v1.deadlight.boo)
@@ -28,6 +28,8 @@ Modular tools for blogging/email/comms without always-on servers. Optimized for 
 <img src="https://mobile.deadlight.boo/apple-touch-icon.png" width="32" height="32" alt="Mobile.Deadlight Logo"> [deadroid](https://mobile.deadlight.boo) - Android deployed instance via Termux
 
 <img src="https://threat-level-midnight.deadlight.boo/apple-touch-icon.png" width="32" height="32" alt="Threat Level Midnight Logo">  [threat-level-midnight](https://threat-level-midnight.deadlight.boo) - Federation testing instance
+
+## Deadlight Proxy Android App
 
 <table>
   <tr>
