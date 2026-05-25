@@ -60,8 +60,6 @@ Modular tools for blogging/email/comms without always-on servers. Optimized for 
 
 </details>
 
-These demonstrate: sub-10 KB page weights, text-only client compatibility, global edge distribution, secure authentication, real-world resilience.
-
 ## Stack
 Optimize for reality: Intermittent connectivity, scarce power, resilience > features.
 
