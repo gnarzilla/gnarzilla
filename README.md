@@ -12,6 +12,23 @@ Modular tools for blogging/email/comms without always-on servers. Optimized for 
 - **blog.deadlight** (JS, ★ 14): <10KB pages, email posting. [Demo](https://deadlight.boo)
 - **deadlight-proxy** (C, ★ 7): HTTP/HTTPS/SMTP/IMAP/FTP/SOCKS bridge + VPN. 
 
+- **deadmesh** (C, ★ 56): LoRa-to-internet gateway. [Project site](https://deadmesh.boo)
+- **deadlight-bootstrap** (JS, ★ 17): Lightweight web framework starter for Cloudflare Workers + D1.  [Demo](https://v1.deadlight.boo)
+- **lib/edge.deadlight** (JS+C): Shared libs and umbrella platform.
+- **vault.deadlight** (C): Local encrypted credential store for CLI/proxies. Offline-friendly, integrates with proxy.deadlight. (MVP in progress)
+
+## Live
+
+<img src="https://deadlight.boo/apple-touch-icon.png" width="32" height="32" alt="Deadlight Logo">  [deadlight](https://deadlight.boo) - Main platform demo
+
+<img src="https://deadmesh.boo/apple-touch-icon.png" width="32" height="32" alt="Deadmesh Logo"> [deadmesh](https://deadmesh.boo) - LoRa gateway project blog
+
+<img src="https://thatch-dt.deadlight.boo/apple-touch-icon.png" width="32" height="32" alt="Thatch Logo"> [thatch](https://thatch-dt.deadlight.boo) - Zero-JS instance with use case examples
+
+<img src="https://mobile.deadlight.boo/apple-touch-icon.png" width="32" height="32" alt="Mobile.Deadlight Logo"> [deadroid](https://mobile.deadlight.boo) - Android deployed instance via Termux
+
+<img src="https://threat-level-midnight.deadlight.boo/apple-touch-icon.png" width="32" height="32" alt="Threat Level Midnight Logo">  [threat-level-midnight](https://threat-level-midnight.deadlight.boo) - Federation testing instance
+
 <table>
   <tr>
     <td width="40%" align="center" valign="top">
@@ -32,23 +49,6 @@ Modular tools for blogging/email/comms without always-on servers. Optimized for 
     </td>
   </tr>
 </table>
-
-- **deadmesh** (C, ★ 56): LoRa-to-internet gateway. [Project site](https://deadmesh.boo)
-- **deadlight-bootstrap** (JS, ★ 17): Lightweight web framework starter for Cloudflare Workers + D1.  [Demo](https://v1.deadlight.boo)
-- **lib/edge.deadlight** (JS+C): Shared libs and umbrella platform.
-- **vault.deadlight** (C): Local encrypted credential store for CLI/proxies. Offline-friendly, integrates with proxy.deadlight. (MVP in progress)
-
-## Live
-
-<img src="https://deadlight.boo/apple-touch-icon.png" width="32" height="32" alt="Deadlight Logo">  [deadlight](https://deadlight.boo) - Main platform demo
-
-<img src="https://deadmesh.boo/apple-touch-icon.png" width="32" height="32" alt="Deadmesh Logo"> [deadmesh](https://deadmesh.boo) - LoRa gateway project blog
-
-<img src="https://thatch-dt.deadlight.boo/apple-touch-icon.png" width="32" height="32" alt="Thatch Logo"> [thatch](https://thatch-dt.deadlight.boo) - Zero-JS instance with use case examples
-
-<img src="https://mobile.deadlight.boo/apple-touch-icon.png" width="32" height="32" alt="Mobile.Deadlight Logo"> [deadroid](https://mobile.deadlight.boo) - Android deployed instance via Termux
-
-<img src="https://threat-level-midnight.deadlight.boo/apple-touch-icon.png" width="32" height="32" alt="Threat Level Midnight Logo">  [threat-level-midnight](https://threat-level-midnight.deadlight.boo) - Federation testing instance
 
 <details>
      <summary>Archive</summary>
