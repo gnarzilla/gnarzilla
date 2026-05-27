@@ -33,8 +33,8 @@ Modular tools for blogging/email/comms without always-on servers. Optimized for 
 <table>
   <tr>
     <td width="40%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/gnarzilla/deadlight-proxy/main/src/assets/app/app_guillotineMode.gif" width="320" alt="GuillotineMode">
       <img src="https://raw.githubusercontent.com/gnarzilla/deadlight-proxy/main/src/assets/app/android-tablet-color-notif.gif" width="320" alt="Android App - Curl tests in tablet">
-      <img src="https://raw.githubusercontent.com/gnarzilla/deadlight-proxy/main/src/assets/app/app_guillotineMode.gif" width="320" alt="Android App Curl & Browser Tests">
     </td>
     <td width="60%" valign="middle" align="center">
       <h3>Android APK Available Now</h3>
