@@ -7,7 +7,7 @@ Secure, performant, privacy-focused apps in the **Deadlight** ecosystem: open-so
 The Deadlight stack has three layers: transport (proxy.deadlight bridges protocols like SMTP/SOCKS/LoRa), security (vault.deadlight handles credentials without network dependency), and application (blog.deadlight publishes content from anywhere). Each component works standalone but thrives together.
 
 ## Deadlight Ecosystem
-Modular tools for blogging/email/comms without always-on servers. Optimized for slow links, batteries, text terminals.
+Modular tools for user sovereignty and freedom from centralized cloud services / commercialized network infrastructure. Taking back the internet one paywall at a time. 
 
 - **blog.deadlight** (JS, ★ 14): <10KB pages, email posting. [Demo](https://deadlight.boo)
 - **deadlight-proxy** (C, ★ 10): HTTP/HTTPS/SMTP/IMAP/FTP/SOCKS bridge + VPN. [Android App Now Available](#deadlight-proxy-android-app)
