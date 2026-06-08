@@ -13,6 +13,7 @@ Modular tools for user sovereignty and freedom from centralized cloud platforms 
 
 - **[blog.deadlight](https://github.com/gnarzilla/blog.deadlight)** (JS, ★ 14): <10KB pages, email posting. [Demo](https://deadlight.boo)
 - **[deadlight-proxy](https://github.com/gnarzilla/deadlight-proxy)** (C, ★ 10): Multi-protocol proxy with plugins, REST API, Android app, and optional VPN gateway.
+[Play Store](https://play.google.com/store/apps/details?id=boo.deadlight.proxy)
 - **[deadmesh](https://github.com/gnarzilla/deadmesh)** (C, ★ 90): LoRa-to-internet gateway. [Project site](https://deadmesh.boo)
 - **[deadlight-bootstrap](https://github.com/gnarzilla/deadlight-bootstrap)** (JS, ★ 17): Lightweight web framework starter for Cloudflare Workers + D1.  [Demo](https://v1.deadlight.boo)
 - **lib.deadlight** (JS+C): Shared libs and umbrella platform.
