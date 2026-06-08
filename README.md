@@ -9,7 +9,7 @@ Building the internet for the apocalypse: update your blog from a can on a strin
 The stack has three layers: transport (`deadlight-proxy` and `deadmesh` bridge HTTP/SOCKS/SMTP/LoRa), security (`vault.deadlight` handles credentials without network dependency), and application (`blog.deadlight` publishes content from anywhere). Each component works standalone, but they are designed to thrive together.
 
 ## Deadlight Ecosystem
-Modular tools for user sovereignty and freedom from centralized cloud services / commercialized network infrastructure. Taking back the internet one paywall at a time. 
+Modular tools for user sovereignty and freedom from centralized cloud services / commercialized network infrastructure. Taking back the persomal internet one paywall at a time. 
 
 - **[blog.deadlight](https://github.com/gnarzilla/blog.deadlight)** (JS, ★ 14): <10KB pages, email posting. [Demo](https://deadlight.boo)
 - **[deadlight-proxy](https://github.com/gnarzilla/deadlight-proxy)** (C, ★ 10): Multi-protocol proxy with plugins, REST API, Android app, and optional VPN gateway.
