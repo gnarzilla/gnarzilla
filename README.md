@@ -4,7 +4,7 @@ I build open-source tools for resilient, user-owned networking: proxies, mesh ga
 
 Building the internet for the apocalypse: update your blog from a can on a string from the smoldering rubble.
 
-**Deadlight** is an ecosystem for publishing, proxying, and routing across unreliable networks — mesh, satellite, mobile, offline-first, and hostile connectivity included.
+**Deadlight** is an ecosystem for publishing, proxying, and routing across unpredictable networks. Mesh, on-device, mobile, offline-first, and hostile connectivity included.
 
 The stack has three layers: transport (`deadlight-proxy` and `deadmesh` bridge HTTP/SOCKS/SMTP/LoRa), security (`vault.deadlight` handles credentials without network dependency), and application (`blog.deadlight` publishes content from anywhere). Each component works standalone, but they are designed to thrive together.
 
