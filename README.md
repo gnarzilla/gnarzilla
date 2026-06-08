@@ -33,12 +33,12 @@ Modular tools for user sovereignty and freedom from centralized cloud services /
 <table>
   <tr>
     <td width="40%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/gnarzilla/deadlight-proxy/main/src/assets/app/deadlight-proxy-wsettings-1.1.7.gif" width="320" alt="GuillotineMode">
-      <img src="https://raw.githubusercontent.com/gnarzilla/deadlight-proxy/main/src/assets/app/android-tablet-color-notif.gif" width="320" alt="Android App - Curl tests in tablet">
+      <img src="https://raw.githubusercontent.com/gnarzilla/deadlight-proxy/main/src/assets/app/deadlight-proxy-wsettings-1.1.7.gif" width="260" alt="GuillotineMode">
+      <img src="https://raw.githubusercontent.com/gnarzilla/deadlight-proxy/main/src/assets/app/android-tablet-color-notif.gif" width="260" alt="Android App - Curl tests in tablet">
     </td>
     <td width="60%" valign="middle" align="center">
       <h3>Android APK Available Now</h3>
-      <p>Run <code>deadlight-proxy</code> natively on your mobile device or tablet. Features real-time traffic inspection, protocol auto-detection, and low-footprint background routing right from your phone.</p>
+      <p>Run <code>deadlight-proxy</code> natively on your mobile device or tablet. Features real-time traffic visibility, protocol auto-detection, and a low-footprint local proxy UI right from your phone.</p>
       <br />
       <a href="https://ko-fi.com/s/bc2cb7c2ee" target="_blank">
         <img src="https://raw.githubusercontent.com/gnarzilla/blog.deadlight/main/src/assets/apple-touch-icon/App-Store-Logo-transp.png" width="120" alt="Download Deadlight Proxy">
