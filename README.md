@@ -1,17 +1,17 @@
 # thatch
 
-Building the internet for the apocalypse: Update your blog from a can on a string from the smoldering rubble.
+I build open-source tools for resilient, user-owned networking: proxies, mesh gateways, tiny publishing systems, and local-first security tools.
 
-Secure, performant, privacy-focused apps in the **Deadlight** ecosystem: open-source tools for resilient web platforms on mesh/satellite/spotty networks. User sovereignty first.
+Building the internet for the apocalypse: update your blog from a can on a string from the smoldering rubble.
 
-The Deadlight stack has three layers: transport (proxy.deadlight bridges protocols like SMTP/SOCKS/LoRa), security (vault.deadlight handles credentials without network dependency), and application (blog.deadlight publishes content from anywhere). Each component works standalone but thrives together.
+The Deadlight stack has three layers: transport (`deadlight-proxy` and `deadmesh` bridge HTTP/SOCKS/SMTP/LoRa), security (`vault.deadlight` stores credentials without network dependency), and application (`blog.deadlight` publishes content from anywhere).
 
 ## Deadlight Ecosystem
 Modular tools for user sovereignty and freedom from centralized cloud services / commercialized network infrastructure. Taking back the internet one paywall at a time. 
 
-- **blog.deadlight** (JS, ★ 14): <10KB pages, email posting. [Demo](https://deadlight.boo)
-- **deadlight-proxy** (C, ★ 10): HTTP/HTTPS/SMTP/IMAP/FTP/SOCKS bridge + VPN. [Android App Now Available](#deadlight-proxy-android-app)
-- **deadmesh** (C, ★ 90): LoRa-to-internet gateway. [Project site](https://deadmesh.boo)
+- **[blog.deadlight](https://github.com/gnarzilla/blog.deadlight)** (JS, ★ 14): <10KB pages, email posting. [Demo](https://deadlight.boo)
+- **[deadlight-proxy](https://github.com/gnarzilla/deadlight-proxy)** (C, ★ 10): HTTP/SOCKS/SMTP/IMAP/FTP proxy with plugins, REST API, Android app, and optional VPN gateway.
+- **[deadmesh](https://github.com/gnarzilla/deadmesh)** (C, ★ 90): LoRa-to-internet gateway. [Project site](https://deadmesh.boo)
 - **deadlight-bootstrap** (JS, ★ 17): Lightweight web framework starter for Cloudflare Workers + D1.  [Demo](https://v1.deadlight.boo)
 - **lib/edge.deadlight** (JS+C): Shared libs and umbrella platform.
 - **vault.deadlight** (C): Local encrypted credential store for CLI/proxies. Offline-friendly, integrates with proxy.deadlight. (MVP in progress)
