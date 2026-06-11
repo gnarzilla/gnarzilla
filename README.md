@@ -6,7 +6,7 @@ Building the internet for the apocalypse: update your blog from a can on a strin
 
 **Deadlight** is an ecosystem for publishing, proxying, and routing across unpredictable networks. Mesh, on-device, mobile, offline-first, and hostile connectivity included.
 
-The stack has three layers: transport (`deadlight-proxy` and `deadmesh` bridge HTTP/SOCKS/SMTP/LoRa), security (`vault.deadlight` handles credentials without network dependency), and application (`blog.deadlight` publishes content from anywhere). Each component works standalone, but they are designed to thrive together.
+The stack has three layers: transport (`deadlight-proxy` and `deadmesh` bridge HTTP/SOCKS/SMTP/LoRa), security (`vault.deadlight` handles credentials without network dependency), and application (`blog.deadlight` publishes content from anywhere).
 
 ## Deadlight Ecosystem
 Modular tools for user sovereignty and freedom from centralized cloud platforms and brittle network infrastructure.
