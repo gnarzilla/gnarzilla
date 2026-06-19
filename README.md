@@ -17,8 +17,8 @@ Modular tools for user sovereignty and freedom from centralized cloud platforms 
 - **[deadmesh](https://github.com/gnarzilla/deadmesh)** (C, ★ 91): LoRa-to-internet gateway. [Project site](https://deadmesh.boo)
 - **[deadlight-bootstrap](https://github.com/gnarzilla/deadlight-bootstrap)** (JS, ★ 17): Lightweight web framework starter for Cloudflare Workers + D1.  [Demo](https://v1.deadlight.boo)
 - **[lib.deadlight](https://github.com/gnarzilla/lib.deadlight)** (JS+C): Shared library.
-- **[deadvault](https://github.com/gnarzilla/deadvault)** (C): Local encrypted credential store for CLI/proxies. Offline-friendly, integrates with deadlight-proxy. (MVP in progress)
-
+- **[deadvault](https://github.com/gnarzilla/deadvault)** (C): Local encrypted credential store for CLI/proxies. Offline-friendly, integrates with deadlight-proxy.
+  
 ## Live
 
 <img src="https://deadlight.boo/apple-touch-icon.png" width="32" height="32" alt="Deadlight Logo">  [deadlight](https://deadlight.boo) - Main platform demo
