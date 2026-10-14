@@ -1,10 +1,8 @@
 # thatch
 
-I build open-source tools for resilient, user-owned networking: proxies, mesh gateways, tiny publishing systems, and local-first security tools.
+Building the internet for the apocalypse, update your blog from a can on a string from the smoldering rubble.
 
-Building the internet for the apocalypse: update your blog from a can on a string from the smoldering rubble.
-
-**Deadlight** is an ecosystem for publishing, proxying, and routing across unpredictable networks. Mesh, on-device, mobile, offline-first, and hostile connectivity included.
+I build open-source tools for resilient, user-owned networking: proxies, mesh gateways, tiny publishing systems, and local-first security tools, as a semi-interconnected ecosystem under the **Deadlight** umbrella. It is an ecosystem for publishing, proxying, and routing across unpredictable networks. Mesh, on-device, mobile, offline-first, and hostile connectivity included.
 
 The stack has three layers: transport (`deadlight-proxy` and `deadmesh` bridge HTTP/SOCKS/SMTP/LoRa), security (`deadvault` handles credentials without network dependency), and application (`blog.deadlight` publishes content from anywhere).
 
