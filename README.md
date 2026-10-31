@@ -53,5 +53,5 @@ Modular tools for user sovereignty and freedom from centralized cloud platforms 
 </table>
 
 ## Contact
-Email: gnarzilla@deadlight.boo | Discord: t.h.a.t.c.h | [Blog: deadlight.boo](https://deadlight.boo) | [Ko-fi](https://ko-fi.com/gnarzilla)
+gnarzilla@deadlight.boo
 
