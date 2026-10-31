@@ -9,7 +9,7 @@ The stack has three layers: transport (`deadlight-proxy` and `deadmesh` bridge H
 ## Deadlight Ecosystem
 Modular tools for user sovereignty and freedom from centralized cloud platforms and brittle network infrastructure.
 
-- **[blog.deadlight](https://github.com/gnarzilla/blog.deadlight)** (JS, ★ 14): <10KB pages, email posting. [Demo](https://deadlight.boo)
+- **[blog.deadlight](https://github.com/gnarzilla/blog.deadlight)** (JS, ★ 15): <10KB pages, email posting. [Demo](https://deadlight.boo)
 - **[deadlight-proxy](https://github.com/gnarzilla/deadlight-proxy)** (C, ★ 11): Multi-protocol proxy with plugins, REST API, Android app, and optional VPN gateway.
 [Play Store](https://play.google.com/store/apps/details?id=boo.deadlight.proxy)
 - **[deadmesh](https://github.com/gnarzilla/deadmesh)** (C, ★ 107): LoRa-to-internet gateway. [Project site](https://deadmesh.boo)
